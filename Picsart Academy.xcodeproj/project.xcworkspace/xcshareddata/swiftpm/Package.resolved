@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "marqueelabel",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/cbpowell/MarqueeLabel.git",
+      "state" : {
+        "revision" : "f2c72a5f8568579dade6350dc26a482076d3d346",
+        "version" : "4.3.0"
+      }
+    },
+    {
+      "identity" : "sidemenu",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jonkykong/SideMenu.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "8bd4fd128923cf5494fa726839af8afe12908ad9"
+      }
+    }
+  ],
+  "version" : 2
+}

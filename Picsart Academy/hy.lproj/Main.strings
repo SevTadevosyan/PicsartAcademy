@@ -1,0 +1,2199 @@
+/* Class = "UILabel"; text = "Image Processing Library"; ObjectID = "0ho-2b-5MD"; */
+"0ho-2b-5MD.text" = "Պատկերների մշակման գրադարան";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "0jb-W7-dBT"; */
+"0jb-W7-dBT.text" = " Ամիս";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0jU-lD-T45"; */
+"0jU-lD-T45.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Backend Web Development"; ObjectID = "0Lk-68-ujW"; */
+"0Lk-68-ujW.text" = "Backend Վեբ Ծրագրավորում";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Video Encoding"; ObjectID = "0N4-qx-mod"; */
+"0N4-qx-mod.text" = "Հիմնական ներածություն դեպի՝ Տեսանյութի կոդավորում";
+
+/* Class = "UILabel"; text = "System Programming Essentials"; ObjectID = "0Vw-Wx-CrS"; */
+"0Vw-Wx-CrS.text" = "Համակարգի ծրագրավորման սկզբունքները ";
+
+/* Class = "UILabel"; text = "Market Analysis Tool"; ObjectID = "0WS-Ve-vI1"; */
+"0WS-Ve-vI1.text" = "Շուկայի վերլուծության գործիք";
+
+/* Class = "UILabel"; text = "People and Interpersonal skills"; ObjectID = "0xe-l3-48k"; */
+"0xe-l3-48k.text" = "Մարդկային և միջանձնային հմտություններ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0Z6-sH-hJ2"; */
+"0Z6-sH-hJ2.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Algorithm Visualizer"; ObjectID = "0zg-Ak-4Ee"; */
+"0zg-Ak-4Ee.text" = "Ալգորիթմի վիզուալիզատոր";
+
+/* Class = "UILabel"; text = "Apply for the pipeline"; ObjectID = "1cz-cF-h6L"; */
+"1cz-cF-h6L.text" = "Միանալ լեգենդներին";
+
+/* Class = "UILabel"; text = "The Programming Practice track represents a curated list of 25 practical tasks and projects students design and implement weekly. In general, it takes 25 weeks to complete the practice track, but the students can retake the track in case of failing one or several tasks. Examples of tasks and projects include algorithmic problems, chess application development, in-memory database management system design, a custom language interpreter implementation, and so on."; ObjectID = "1JM-1M-uM1"; */
+"1JM-1M-uM1.text" = "Ծրագրավորման պրակտիկայի Track-ը ներկայացնում է 25 գործնական առաջադրանքների և նախագծերի համադրված ցանկ, որոնք ուսանողները նախագծում և իրականացնում են շաբաթական: Ընդհանուր առմամբ, պրակտիկայի Track-ը ավարտելու համար պահանջվում է 25 շաբաթ, բայց ուսանողները կարող են նորից անցնել Track-ի մեկ կամ մի քանի առաջադրանք ձախողելու դեպքում: Առաջադրանքների և նախագծերի օրինակները ներառում են ալգորիթմական խնդիրներ, շախմատային հավելվածների մշակում, հիշողության մեջ տվյալների բազայի կառավարման համակարգի ձևավորում, անհատական լեզվի թարգմանչի ներդրում և այլն:";
+
+/* Class = "UILabel"; text = "Version Control Systems and Git "; ObjectID = "1Nw-Ss-hWR"; */
+"1Nw-Ss-hWR.text" = "Տարբերակների վերահսկման համակարգեր և Git ";
+
+/* Class = "UILabel"; text = "Sense of UI/UX Design"; ObjectID = "1rp-WY-6uJ"; */
+"1rp-WY-6uJ.text" = "Հմտություններ UI/UX Դիզայնից";
+
+/* Class = "UILabel"; text = "You will go through a series of tests, exams, and interviews to define the stage that matches your current skills and expertise level."; ObjectID = "1sn-gK-aDa"; */
+"1sn-gK-aDa.text" = "Դուք կանցնեք մի շարք թեստեր, քննություններ և հարցազրույցներ՝ որոշելու այն փուլը, որը համապատասխանում է ձեր ընթացիկ հմտություններին և փորձի մակարդակին:";
+
+/* Class = "UILabel"; text = "Code Republic Lab graduates are skillful engineers with solid hands-on experience in complex systems design and development."; ObjectID = "1tm-TQ-go1"; */
+"1tm-TQ-go1.text" = "Քոդ Րիփաբլիք Լաբի շրջանավարտները հմուտ ինժեներներ են, որոնք ունեն բարդ համակարգերի նախագծման և զարգացման ամուր գործնական փորձ:";
+
+/* Class = "UILabel"; text = "Sandbox Modules"; ObjectID = "1zA-QS-Zjr"; */
+"1zA-QS-Zjr.text" = "Sandbox-ի մոդուլները";
+
+/* Class = "UILabel"; text = "Product Design"; ObjectID = "2B5-Mk-HLA"; */
+"2B5-Mk-HLA.text" = "Նախագծի դիզայն";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Dq-JO-8mG"; */
+"2Dq-JO-8mG.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Computer Programming Track"; ObjectID = "2eE-Xb-jE7"; */
+"2eE-Xb-jE7.text" = "Համակարգչային ծրագրավորման Track";
+
+/* Class = "UILabel"; text = "Picsart Academy"; ObjectID = "2GP-Cj-q12"; */
+"2GP-Cj-q12.text" = "Փիքսարթ Ակադեմիա";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Computer Networks"; ObjectID = "2hi-dx-SXG"; */
+"2hi-dx-SXG.text" = "Հիմնական ներածություն դեպի՝ Համակարգչային ցանցեր";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Lo-Ds-a1P"; */
+"2Lo-Ds-a1P.normalTitle" = "";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "2lx-wZ-Uke"; */
+"2lx-wZ-Uke.text" = "00";
+
+/* Class = "UILabel"; text = "   Picsart Academy"; ObjectID = "2nU-qh-M7J"; */
+"2nU-qh-M7J.text" = "   Փիքսարթ Ակադեմիա";
+
+/* Class = "UILabel"; text = "Practice-Oriented Tracks/Specializations"; ObjectID = "2Ru-tn-j4K"; */
+"2Ru-tn-j4K.text" = "Գործնական կողմնորոշված Track-եր/մասնագիտացումներ";
+
+/* Class = "UILabel"; text = "System Programming Essentials"; ObjectID = "2SL-sy-eT1"; */
+"2SL-sy-eT1.text" = "Համակարգի ծրագրավորման սկզբունքները ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2w9-q4-mix"; */
+"2w9-q4-mix.normalTitle" = "";
+
+/* Class = "UIViewController"; title = "Sandbox"; ObjectID = "2Yd-gm-w68"; */
+"2Yd-gm-w68.title" = "Sandbox";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "2ZF-DP-BYD"; */
+"2ZF-DP-BYD.text" = "Անգլերեն";
+
+/* Class = "UILabel"; text = "Essential Mathematics Track"; ObjectID = "2zJ-bL-c4W"; */
+"2zJ-bL-c4W.text" = "Հիմնական մաթեմատիկայի Track";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "2zj-rL-nyn"; */
+"2zj-rL-nyn.text" = "Ամիս";
+
+/* Class = "UILabel"; text = "Educating the besttalent since 2016."; ObjectID = "3Ch-9p-PSj"; */
+"3Ch-9p-PSj.text" = "Ուսուցանում ենք լավագույն տաղանդներին սկսած՝ 2016թ.-ից";
+
+/* Class = "UILabel"; text = "Days"; ObjectID = "3jW-jG-ahR"; */
+"3jW-jG-ahR.text" = "Օր";
+
+/* Class = "UILabel"; text = "English (Beginner, Pre-Intermediate)"; ObjectID = "3LT-QH-1ks"; */
+"3LT-QH-1ks.text" = "Անգլերեն (Սկսնակ, Միջին մակարդակ)";
+
+/* Class = "UILabel"; text = "System Programming Essentials"; ObjectID = "3n4-S5-7Kx"; */
+"3n4-S5-7Kx.text" = "Համակարգի ծրագրավորման սկզբունքները ";
+
+/* Class = "UILabel"; text = "Working in a Linux Environment (2 weeks)"; ObjectID = "3og-6Z-t1d"; */
+"3og-6Z-t1d.text" = "Աշխատանք Linux միջավայրում (2 շաբաթ)";
+
+/* Class = "UILabel"; text = "Students pass a set of tests, exams, and interviews after completing each course and module. They unlock badges for each course and module."; ObjectID = "3V9-6B-MR9"; */
+"3V9-6B-MR9.text" = "Յուրաքանչյուր դասընթաց և մոդուլ ավարտելուց հետո ուսանողները հանձնում են մի շարք թեստեր, քննություններ և հարցազրույցներ: Նրանք ստանում են badge-եր յուրաքանչյուր դասընթացի և մոդուլի համար:";
+
+/* Class = "UISegmentedControl"; 4Jy-PV-r8H.segmentTitles[0] = "English"; ObjectID = "4Jy-PV-r8H"; */
+"4Jy-PV-r8H.segmentTitles[0]" = "Անգլերեն";
+
+/* Class = "UISegmentedControl"; 4Jy-PV-r8H.segmentTitles[1] = "Armenian"; ObjectID = "4Jy-PV-r8H"; */
+"4Jy-PV-r8H.segmentTitles[1]" = "Հայերեն";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Database Systems and SQL"; ObjectID = "4pH-jp-BdX"; */
+"4pH-jp-BdX.text" = "Հիմնական ներածություն դեպի՝ Տվյալների բազայի համակարգեր և SQL";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4PP-hm-tLO"; */
+"4PP-hm-tLO.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4pV-xC-pdf"; */
+"4pV-xC-pdf.normalTitle" = "";
+
+/* Class = "UISegmentedControl"; 4QK-pY-B8c.segmentTitles[0] = "English"; ObjectID = "4QK-pY-B8c"; */
+"4QK-pY-B8c.segmentTitles[0]" = "Անգլերեն";
+
+/* Class = "UISegmentedControl"; 4QK-pY-B8c.segmentTitles[1] = "Armenian"; ObjectID = "4QK-pY-B8c"; */
+"4QK-pY-B8c.segmentTitles[1]" = "Հայերեն";
+
+/* Class = "UILabel"; text = "In addition to the courses, there is an internship program consisting of 11 medium and 1 large task projects."; ObjectID = "4r9-Af-dVH"; */
+"4r9-Af-dVH.text" = "Բացի դասընթացներից, գործում է պրակտիկայի ծրագիր՝ բաղկացած 11 միջին և 1 մեծ առաջադրանքային նախագծերից։";
+
+/* Class = "UILabel"; text = "   Telephone Number"; ObjectID = "4V3-l0-KfG"; */
+"4V3-l0-KfG.text" = "   Հեռախոսահամար";
+
+/* Class = "UILabel"; text = "Working in a Linux environment "; ObjectID = "4VJ-yz-xbN"; */
+"4VJ-yz-xbN.text" = "Աշխատանք Linux միջավայրում";
+
+/* Class = "UILabel"; text = "Decentralized database management system"; ObjectID = "4xu-3N-vYv"; */
+"4xu-3N-vYv.text" = "Տվյալների բազայի կառավարման ապակենտրոնացված համակարգ";
+
+/* Class = "UILabel"; text = "Market Analysis Tool"; ObjectID = "4yR-xG-n6Y"; */
+"4yR-xG-n6Y.text" = "Շուկայի վերլուծության գործիք";
+
+/* Class = "UILabel"; text = "Picsart Academy is for passionate, hardworking enthusiasts who value in-depth tech education. We don’t believe in quick results, but rather do our best to make sure all the students become fearless engineers tackling the hardest problems."; ObjectID = "4Z8-Wh-kGA"; */
+"4Z8-Wh-kGA.text" = "Փիքսարթ Ակադեմիան աշխատասեր էնտուզիաստների համար է, ովքեր գնահատում են խորը տեխնոլոգիական կրթությունը: Մենք չենք հավատում արագ արդյունքներին, այլ ավելի շուտ անում ենք ամեն ինչ, որպեսզի բոլոր ուսանողները դառնան անվախ ինժեներներ, որոնք հաղթահարում են ամենադժվար խնդիրները:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5Ae-UO-2DS"; */
+"5Ae-UO-2DS.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Level Up Bootcamp"; ObjectID = "5Cm-dd-wbM"; */
+"5Cm-dd-wbM.text" = "Ավելի բարձր մակարդակի Bootcamp";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Computer Networks"; ObjectID = "5Gd-KZ-HTg"; */
+"5Gd-KZ-HTg.text" = "Հիմնական ներածություն դեպի՝ Համակարգչային ցանցեր";
+
+/* Class = "UILabel"; text = "Search Engine with Built in Translation"; ObjectID = "5Gs-b6-SmA"; */
+"5Gs-b6-SmA.text" = "Որոնիչ՝ ներկառուցված թարգմանությամբ";
+
+/* Class = "UILabel"; text = "Inside the Lab"; ObjectID = "5Is-Uc-sok"; */
+"5Is-Uc-sok.text" = "Lab-ի ներսում";
+
+/* Class = "UILabel"; text = "   Telephone Number"; ObjectID = "5l1-qm-a4l"; */
+"5l1-qm-a4l.text" = "   Հեռախոսահամար";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5nI-Iu-nAN"; */
+"5nI-Iu-nAN.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Analytical and critical thinking"; ObjectID = "5ny-CG-5T5"; */
+"5ny-CG-5T5.text" = "Վերլուծական և քննադատական մտածողություն";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "05O-FT-Prc"; */
+"05O-FT-Prc.text" = "Կարգավորումներ";
+
+/* Class = "UIViewController"; title = "Settings"; ObjectID = "5th-mO-6V4"; */
+"5th-mO-6V4.title" = "Կարգավորումներ";
+
+/* Class = "UILabel"; text = "Picsart Academy Certified Intern"; ObjectID = "5yW-kj-kEz"; */
+"5yW-kj-kEz.text" = "Փիքսարթ Ակադեմիայի հավաստագրված պրակտիկանտ";
+
+/* Class = "UILabel"; text = "The Next Wave Starts On July 1,2022"; ObjectID = "6Eq-YG-WKL"; */
+"6Eq-YG-WKL.text" = "Հաջորդ փուլը սկսվում է դեկտեմբերի 1-ին, 2022թ.";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "6fa-Eb-s3Y"; */
+"6fa-Eb-s3Y.text" = "00";
+
+/* Class = "UILabel"; text = "Become an incredible engineer and get hired  at leading companies worldwide by participating in the following pipeline stages."; ObjectID = "6fs-bj-RGu"; */
+"6fs-bj-RGu.text" = "Դարձեք անհավանական ինժեներ և աշխատանքի ընդունվեք աշխարհի առաջատար ընկերություններում՝ մասնակցելով լեգենդների հետևյալ փուլերին:";
+
+/* Class = "UILabel"; text = "Software Testing Essentials (2 weeks)"; ObjectID = "6na-50-G58"; */
+"6na-50-G58.text" = "Ծրագրային ապահովման փորձարկման հիմունքները (2 շաբաթ)";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6pI-P8-Shg"; */
+"6pI-P8-Shg.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Image Processing Library"; ObjectID = "6qd-CX-r80"; */
+"6qd-CX-r80.text" = "Պատկերների մշակման գրադարան";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6xk-zp-RG6"; */
+"6xk-zp-RG6.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Time Management"; ObjectID = "06z-o9-jaa"; */
+"06z-o9-jaa.text" = "Ժամանակի կառավարում";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7aa-Mp-2PM"; */
+"7aa-Mp-2PM.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Version Control Systems and Git "; ObjectID = "7c2-ep-PgX"; */
+"7c2-ep-PgX.text" = "Տարբերակների վերահսկման համակարգեր և Git ";
+
+/* Class = "UILabel"; text = "English (Beginner, Pre-Intermediate)"; ObjectID = "7cC-SR-Yzb"; */
+"7cC-SR-Yzb.text" = "Անգլերեն (Սկսնակ, Միջին մակարդակ)";
+
+/* Class = "UILabel"; text = "Engineering Practice Track"; ObjectID = "7dA-yh-XcE"; */
+"7dA-yh-XcE.text" = "Ինժեներական պրակտիկայի Track";
+
+/* Class = "UIButton"; configuration.title = "Done"; ObjectID = "7Jv-lY-rR2"; */
+"7Jv-lY-rR2.configuration.title" = "Ավարտել";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7Jv-lY-rR2"; */
+"7Jv-lY-rR2.normalTitle" = "Ավարտել";
+
+/* Class = "UILabel"; text = "Level Up Modules"; ObjectID = "7Pq-9T-Oka"; */
+"7Pq-9T-Oka.text" = "Level Up-ի մոդուլները";
+
+/* Class = "UILabel"; text = "File System Emulator"; ObjectID = "7Sx-qD-eVq"; */
+"7Sx-qD-eVq.text" = "Ֆայլային համակարգի էմուլյատոր";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7t4-YR-igk"; */
+"7t4-YR-igk.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Educating the besttalent since 2016."; ObjectID = "8dc-1N-Eq5"; */
+"8dc-1N-Eq5.text" = "Ուսուցանում ենք լավագույն տաղանդներին սկսած՝ 2016թ.-ից";
+
+/* Class = "UIButton"; normalTitle = "Enroll Now"; ObjectID = "8Ev-Tz-wnR"; */
+"8Ev-Tz-wnR.normalTitle" = "Միանալ հիմա";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "08g-4A-6cr"; */
+"08g-4A-6cr.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Minutes"; ObjectID = "8KG-h0-iX5"; */
+"8KG-h0-iX5.text" = "Րոպե";
+
+/* Class = "UILabel"; text = "iOS App Development"; ObjectID = "8nz-U4-1PX"; */
+"8nz-U4-1PX.text" = "iOS Ծրագրավորում";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "8uD-Tg-A7N"; */
+"8uD-Tg-A7N.title" = "Կարգավորումներ";
+
+/* Class = "UILabel"; text = "Analytical and critical thinking"; ObjectID = "8VJ-8X-ZDr"; */
+"8VJ-8X-ZDr.text" = "Վերլուծական և քննադատական մտածողություն";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8X7-pw-uZt"; */
+"8X7-pw-uZt.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Software Testing Essentials"; ObjectID = "9a6-HK-NcZ"; */
+"9a6-HK-NcZ.text" = "Ծրագրային ապահովման փորձարկման հիմունքները ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9Dm-0h-dAQ"; */
+"9Dm-0h-dAQ.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9hN-SR-nz4"; */
+"9hN-SR-nz4.normalTitle" = "";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Video Encoding (4 weeks)"; ObjectID = "9J5-1X-4Xq"; */
+"9J5-1X-4Xq.text" = "Հիմնական ներածություն դեպի՝ Տեսանյութի կոդավորում(4 շաբաթ)";
+
+/* Class = "UILabel"; text = "Decentralized database management system"; ObjectID = "9qf-36-344"; */
+"9qf-36-344.text" = "Տվյալների բազայի կառավարման ապակենտրոնացված համակարգ";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "9t1-WW-YOt"; */
+"9t1-WW-YOt.text" = "Ժամ";
+
+/* Class = "UILabel"; text = "   Address"; ObjectID = "9zt-xJ-MWt"; */
+"9zt-xJ-MWt.text" = "   Հասցե";
+
+/* Class = "UILabel"; text = "Computer Vision and Image Processing"; ObjectID = "12f-5l-UPj"; */
+"12f-5l-UPj.text" = "Համակարգչային տեսողություն և պատկերի մշակում";
+
+/* Class = "UILabel"; text = "Courses in the track"; ObjectID = "15E-3H-OOT"; */
+"15E-3H-OOT.text" = "Track-ում ներառված դասընթացները";
+
+/* Class = "UILabel"; text = "Educating the besttalent since 2016."; ObjectID = "15p-Qn-pYJ"; */
+"15p-Qn-pYJ.text" = "Ուսուցանում ենք լավագույն տաղանդներին սկսած՝ 2016թ.-ից";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Database Systems and SQL"; ObjectID = "16u-ow-FBz"; */
+"16u-ow-FBz.text" = "Հիմնական ներածություն դեպի՝ Տվյալների բազայի համակարգեր և SQL";
+
+/* Class = "UILabel"; text = "Gain professional skills and become certified professional"; ObjectID = "25L-aT-FVd"; */
+"25L-aT-FVd.text" = "Ձեռք բերեք մասնագիտական հմտություններ և եղեք որակավորված մասնագետ";
+
+/* Class = "UILabel"; text = "Image Processing Library"; ObjectID = "31E-ij-a59"; */
+"31E-ij-a59.text" = "Պատկերների մշակման գրադարան";
+
+/* Class = "UILabel"; text = "CRL Projects"; ObjectID = "32E-aW-aao"; */
+"32E-aW-aao.text" = "CRL նախագծեր";
+
+/* Class = "UILabel"; text = "The track represents a sequence of in-depth engineering courses mandatory for all Level Up Bootcamp students. "; ObjectID = "34g-pb-Qbf"; */
+"34g-pb-Qbf.text" = "Թրեքը ներկայացնում է ինժեներական խորացված դասընթացների հաջորդականություն, որոնք պարտադիր են Մակարդակի զարգացման Bootcamp-ի բոլոր ուսանողների համար: ";
+
+/* Class = "UILabel"; text = "Pipeline"; ObjectID = "37m-jO-e3H"; */
+"37m-jO-e3H.text" = "Լեգենդների ուղի";
+
+/* Class = "UILabel"; text = "Probability and Statistics Track"; ObjectID = "42p-Tk-dTC"; */
+"42p-Tk-dTC.text" = "Հավանականության և վիճակագրության Track";
+
+/* Class = "UILabel"; text = "   Azatutyan Avenue 24/17, “E” Plaza"; ObjectID = "44v-vv-q6Q"; */
+"44v-vv-q6Q.text" = "   Ազատության պողոտա 24/17, “E” Պլազա";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "45b-LF-iSW"; */
+"45b-LF-iSW.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Covering all the CS fundamentals, languages, and necessary tools and libraries, the Sandbox offers a juicy set of pro-level skills and knowledge for:"; ObjectID = "48X-4j-No7"; */
+"48X-4j-No7.text" = "Անցնելով Համակարգչային գիտության բոլոր հիմունքները, լեզուները և անհրաժեշտ գործիքներն ու գրադարանները՝ Sandbox-ն առաջարկում է պրոֆեսիոնալ մակարդակի հմտությունների և մի շարք գիտելիքներ նրանց համար ովքեր՝ ";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Web Development"; ObjectID = "70d-rs-RU8"; */
+"70d-rs-RU8.text" = "Հիմնական ներածություն դեպի՝ Վեբ Ծրագրավորում";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "71W-1h-IMC"; */
+"71W-1h-IMC.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "75M-TE-Gj2"; */
+"75M-TE-Gj2.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Tracks Flow"; ObjectID = "79f-bC-0SZ"; */
+"79f-bC-0SZ.text" = "Track-երի ընթացքը";
+
+/* Class = "UITabBarItem"; title = "Staff"; ObjectID = "84b-r4-UYY"; */
+"84b-r4-UYY.title" = "Աշխատակազմ";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Image Formats and Image Processing"; ObjectID = "99f-ZD-ZQ8"; */
+"99f-ZD-ZQ8.text" = "Հիմնական ներածություն դեպի՝ պատկերի ձևաչափերի և պատկերների մշակում";
+
+/* Class = "UILabel"; text = "Apply To Course"; ObjectID = "a0X-OQ-jAg"; */
+"a0X-OQ-jAg.text" = "Միանալ դասընթացին";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Image Formats and Image Processing"; ObjectID = "a3U-5J-0MD"; */
+"a3U-5J-0MD.text" = "Հիմնական ներածություն դեպի՝ պատկերի ձևաչափերի և պատկերների մշակում";
+
+/* Class = "UILabel"; text = "Deep Engineering Track"; ObjectID = "A6G-WZ-Nkl"; */
+"A6G-WZ-Nkl.text" = "Խորը ծրագրավորման Track";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "A8e-UO-Hb2"; */
+"A8e-UO-Hb2.normalTitle" = "";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Computer Networks"; ObjectID = "A9l-Wb-lCY"; */
+"A9l-Wb-lCY.text" = "Հիմնական ներածություն դեպի՝ Համակարգչային ցանցեր";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "A39-0Q-Vnm"; */
+"A39-0Q-Vnm.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aC9-Zf-XW3"; */
+"aC9-Zf-XW3.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Educating the besttalent since 2016."; ObjectID = "ACD-PI-51G"; */
+"ACD-PI-51G.text" = "Ուսուցանում ենք լավագույն տաղանդներին սկսած՝ 2016թ.-ից";
+
+/* Class = "UILabel"; text = "Certified Intern"; ObjectID = "aDd-i3-WRP"; */
+"aDd-i3-WRP.text" = "Հավաստագրված պրակտիկանտ";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Adh-dH-5Mq"; */
+"Adh-dH-5Mq.text" = "Կարգավորումներ";
+
+/* Class = "UILabel"; text = "Sandbox Modules"; ObjectID = "AfD-tV-2TO"; */
+"AfD-tV-2TO.text" = "Sandbox-ի մոդուլները";
+
+/* Class = "UILabel"; text = "Build Automation"; ObjectID = "AJU-tj-75C"; */
+"AJU-tj-75C.text" = "Կառուցման ավտոմատացում";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Image Formats and Image Processing"; ObjectID = "ali-Vp-rRl"; */
+"ali-Vp-rRl.text" = "Հիմնական ներածություն դեպի՝ պատկերի ձևաչափերի և պատկերների մշակում";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Web Development"; ObjectID = "ALo-rU-mFW"; */
+"ALo-rU-mFW.text" = "Հիմնական ներածություն դեպի՝ Վեբ Ծրագրավորում";
+
+/* Class = "UILabel"; text = "  Language"; ObjectID = "aMm-Qw-hgw"; */
+"aMm-Qw-hgw.text" = "  Լեզու";
+
+/* Class = "UILabel"; text = "Each new member is assigned a project and a mentor who leads their way through the challenges of project design and development. Each project has a dedicated tech lead who determines project requirements and develops work schedule for the team. "; ObjectID = "ANJ-ed-1D5"; */
+"ANJ-ed-1D5.text" = "Յուրաքանչյուր նոր անդամի նշանակվում է նախագիծ և մենթոր, ով առաջնորդում է իրենց ճանապարհը ծրագրի նախագծման և զարգացման մարտահրավերների միջով: Յուրաքանչյուր նախագիծ ունի հատուկ տեխնոլոգիական առաջատար, որը որոշում է ծրագրի պահանջները և մշակում աշխատանքային ժամանակացույցը թիմի համար:";
+
+/* Class = "UISegmentedControl"; Ao1-Bg-hr5.segmentTitles[0] = "English"; ObjectID = "Ao1-Bg-hr5"; */
+"Ao1-Bg-hr5.segmentTitles[0]" = "Անգլերեն";
+
+/* Class = "UISegmentedControl"; Ao1-Bg-hr5.segmentTitles[1] = "Armenian"; ObjectID = "Ao1-Bg-hr5"; */
+"Ao1-Bg-hr5.segmentTitles[1]" = "Հայերեն";
+
+/* Class = "UILabel"; text = "Programming Practice Track"; ObjectID = "AoP-ZQ-H7j"; */
+"AoP-ZQ-H7j.text" = "Ծրագրավորման պրակտիկայի Track";
+
+/* Class = "UILabel"; text = "Programming Practice Track"; ObjectID = "Ap7-vL-pVi"; */
+"Ap7-vL-pVi.text" = "Ծրագրավորման պրակտիկայի Track";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "APb-5P-Gqm"; */
+"APb-5P-Gqm.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Spoken English"; ObjectID = "apU-wT-fAv"; */
+"apU-wT-fAv.text" = "Խոսակցական Անգլերեն";
+
+/* Class = "UILabel"; text = "Engineering Practice Track"; ObjectID = "ar6-ox-Byr"; */
+"ar6-ox-Byr.text" = "Ինժեներական պրակտիկայի Track";
+
+/* Class = "UILabel"; text = "Programming Language Essentials with C++, Java, or Python"; ObjectID = "Ars-cr-fkO"; */
+"Ars-cr-fkO.text" = "Ծրագրավորման լեզվի հիմունքները C++, Java, կամ Python-ով";
+
+/* Class = "UILabel"; text = "Three levels of certificatins"; ObjectID = "asd-n0-Hc7"; */
+"asd-n0-Hc7.text" = "Երեք մակարդակի վկայականներ";
+
+/* Class = "UILabel"; text = "File System Emulator"; ObjectID = "ATH-3M-IMz"; */
+"ATH-3M-IMz.text" = "Ֆայլային համակարգի էմուլյատոր";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "atq-P0-tcU"; */
+"atq-P0-tcU.text" = "00";
+
+/* Class = "UISegmentedControl"; AU8-ha-h8i.segmentTitles[0] = "English"; ObjectID = "AU8-ha-h8i"; */
+"AU8-ha-h8i.segmentTitles[0]" = "Անգլերեն";
+
+/* Class = "UISegmentedControl"; AU8-ha-h8i.segmentTitles[1] = "Armenian"; ObjectID = "AU8-ha-h8i"; */
+"AU8-ha-h8i.segmentTitles[1]" = "Հայերեն";
+
+/* Class = "UILabel"; text = "Practice-Oriented Tracks/Specializations"; ObjectID = "AVq-oF-XS0"; */
+"AVq-oF-XS0.text" = "Գործնական կողմնորոշված Track-եր/մասնագիտացումներ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AVu-jm-qCD"; */
+"AVu-jm-qCD.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Advanced English Track"; ObjectID = "aw5-yX-hyi"; */
+"aw5-yX-hyi.text" = "Խորացված Անգլերենի Track";
+
+/* Class = "UILabel"; text = "Level Up Bootcamp offers many advanced courses for experienced engineers, including specializations in "; ObjectID = "b2k-PV-KEY"; */
+"b2k-PV-KEY.text" = "Level Up Bootcamp-ն առաջարկում է բազմաթիվ առաջադեմ դասընթացներ փորձառու ինժեներների համար, ներառյալ մասնագիտացումները՝";
+
+/* Class = "UILabel"; text = "Essential Mathematics Track"; ObjectID = "b2w-rp-Bk6"; */
+"b2w-rp-Bk6.text" = "Հիմնական մաթեմատիկայի Track";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Mobile App Development"; ObjectID = "baE-24-Ovx"; */
+"baE-24-Ovx.text" = "Հիմնական ներածություն դեպի՝ Մոբայլ Ծրագրավորում ";
+
+/* Class = "UILabel"; text = "Backend Web Development"; ObjectID = "baI-2R-wwI"; */
+"baI-2R-wwI.text" = "Backend Վեբ Ծրագրավորում";
+
+/* Class = "UILabel"; text = "Product Design"; ObjectID = "bBI-ya-SWY"; */
+"bBI-ya-SWY.text" = "Նախագծի դիզայն";
+
+/* Class = "UILabel"; text = "CRL Modules"; ObjectID = "bcP-JO-fgG"; */
+"bcP-JO-fgG.text" = "CRL մոդուլները";
+
+/* Class = "UILabel"; text = "Advanced Java"; ObjectID = "bDt-Et-jR6"; */
+"bDt-Et-jR6.text" = "Խորացված Java";
+
+/* Class = "UILabel"; text = "The track involves all the fundamentals required to lay a solid foundation before choosing a specialization in software engineering. Although we do not put a strong emphasis on the programming language, the students are free to choose among C++, Java, and Python as one of their main language during the courses."; ObjectID = "Bdt-HH-VcX"; */
+"Bdt-HH-VcX.text" = "Track-ը ներառում է բոլոր այն հիմունքները, որոնք անհրաժեշտ են ամուր հիմքեր դնելու համար՝ նախքան ծրագրային ապահովման ճարտարագիտության մասնագիտացում ընտրելը: Թեև մենք շեշտը դնում ենք ծրագրավորման լեզվի վրա, ուսանողներն ազատ են ընտրելու C++, Java և Python-ը որպես իրենց հիմնական լեզուներից մեկը դասընթացների ընթացքում:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bDU-4V-lfw"; */
+"bDU-4V-lfw.normalTitle" = "";
+
+/* Class = "UIButton"; disabledTitle = "Enroll Now"; ObjectID = "BDw-q7-iE8"; */
+"BDw-q7-iE8.disabledTitle" = "Միանալ Հիմա";
+
+/* Class = "UIButton"; normalTitle = "Enroll Now"; ObjectID = "BDw-q7-iE8"; */
+"BDw-q7-iE8.normalTitle" = "Միանալ Հիմա";
+
+/* Class = "UILabel"; text = "Search Engine with Built in Translation"; ObjectID = "Bew-ee-aCh"; */
+"Bew-ee-aCh.text" = "Որոնիչ՝ ներկառուցված թարգմանությամբ";
+
+/* Class = "UIViewController"; title = "Career Tracks"; ObjectID = "bG7-87-dGK"; */
+"bG7-87-dGK.title" = "Կարիերայի Track-եր";
+
+/* Class = "UIButton"; disabledTitle = "Enroll Now"; ObjectID = "BGA-VS-KYg"; */
+"BGA-VS-KYg.disabledTitle" = "Միանալ Հիմա";
+
+/* Class = "UIButton"; normalTitle = "Enroll Now"; ObjectID = "BGA-VS-KYg"; */
+"BGA-VS-KYg.normalTitle" = "Միանալ Հիմա";
+
+/* Class = "UILabel"; text = "Advanced English Track"; ObjectID = "BGC-Sg-daj"; */
+"BGC-Sg-daj.text" = "Խորացված Անգլերենի Track";
+
+/* Class = "UILabel"; text = "Sandbox Tracks"; ObjectID = "BGG-us-Ey2"; */
+"BGG-us-Ey2.text" = "Sandboxի Track-երը";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "bJ0-qz-LP9"; */
+"bJ0-qz-LP9.text" = "Ժամ";
+
+/* Class = "UILabel"; text = "Advanced Algorithms and Problem Solving"; ObjectID = "BJ7-ct-WCk"; */
+"BJ7-ct-WCk.text" = "Խորացված Ալգորիթմներ և խնդիրների լուծում";
+
+/* Class = "UILabel"; text = "Days"; ObjectID = "BJb-ht-7ak"; */
+"BJb-ht-7ak.text" = "Օր";
+
+/* Class = "UILabel"; text = "Admission waves"; ObjectID = "bjj-nZ-pZR"; */
+"bjj-nZ-pZR.text" = "Ընդունելության ալիքներ";
+
+/* Class = "UILabel"; text = "Version Control Systems and Git (2 weeks)"; ObjectID = "bjO-ny-yjg"; */
+"bjO-ny-yjg.text" = "Տարբերակների վերահսկման համակարգեր և Git (2 շաբաթ)";
+
+/* Class = "UIButton"; configuration.title = "Done"; ObjectID = "bnI-ak-v8N"; */
+"bnI-ak-v8N.configuration.title" = "Ավարտել";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bnI-ak-v8N"; */
+"bnI-ak-v8N.normalTitle" = "Ավարտել";
+
+/* Class = "UILabel"; text = "Voice Processing Library"; ObjectID = "Bns-wr-YjR"; */
+"Bns-wr-YjR.text" = "Ձայնի մշակման գրադարան";
+
+/* Class = "UILabel"; text = "Introduction"; ObjectID = "bo1-Eq-x0v"; */
+"bo1-Eq-x0v.text" = "Ներածություն";
+
+/* Class = "UILabel"; text = "Computer Programming Track"; ObjectID = "BOb-vp-xQD"; */
+"BOb-vp-xQD.text" = "Համակարգչային ծրագրավորման Track  ";
+
+/* Class = "UILabel"; text = "Learn more"; ObjectID = "bOg-mi-FdH"; */
+"bOg-mi-FdH.text" = "Իմանալ ավելին";
+
+/* Class = "UILabel"; text = "Applicants with basic coding skills"; ObjectID = "BPj-5U-L4D"; */
+"BPj-5U-L4D.text" = "Հիմնական կոդավորման հմտություններ ունեցող դիմորդներ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bq4-uv-8u5"; */
+"Bq4-uv-8u5.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Project Management"; ObjectID = "brl-69-Ge7"; */
+"brl-69-Ge7.text" = "Նախագծի կառավարում";
+
+/* Class = "UILabel"; text = "Admission waves"; ObjectID = "BRV-Qp-fqF"; */
+"BRV-Qp-fqF.text" = "Ընդունելության ալիքներ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Btq-9B-F8G"; */
+"Btq-9B-F8G.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Subjects To Learn"; ObjectID = "bUC-uF-OfD"; */
+"bUC-uF-OfD.text" = "Սովորելու առարկաներ";
+
+/* Class = "UILabel"; text = "Level Up Bootcamp aims for advanced education in software engineering by focusing on an intern to mid-level engineers who want to enhance their knowledge and skills in data architecture, system design, software architecture, multithreading, distributed systems, image and video processing, and many more."; ObjectID = "bxG-zp-SCi"; */
+"bxG-zp-SCi.text" = "Level Up Bootcamp-ը նպատակ ունի առաջադեմ կրթություն տալ ծրագրային ապահովման ճարտարագիտությունից՝ կենտրոնանալով պրակտիկանտից մինչև միջին մակարդակի ինժեներների վրա, ովքեր ցանկանում են զարգացնել իրենց գիտելիքներն ու հմտությունները տվյալների ճարտարապետության, համակարգերի նախագծման, ծրագրային ապահովման ճարտարապետության, բազմալեզու, բաշխված համակարգերի, պատկերների և վիդեո մշակման և շատ այլ ոլորտներում։";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Database Systems and SQL"; ObjectID = "byd-qo-JIN"; */
+"byd-qo-JIN.text" = "Հիմնական ներածություն դեպի՝ Տվյալների բազայի համակարգեր և SQL";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Web Development"; ObjectID = "Bz0-D5-2kV"; */
+"Bz0-D5-2kV.text" = "Հիմնական ներածություն դեպի՝ Վեբ Ծրագրավորում";
+
+/* Class = "UILabel"; text = "APPEARANCE"; ObjectID = "c1b-xF-CDF"; */
+"c1b-xF-CDF.text" = "Մուգ ռեժիմ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "c3c-h6-Vfc"; */
+"c3c-h6-Vfc.normalTitle" = "";
+
+/* Class = "UILabel"; text = "CRL Projects"; ObjectID = "C5Y-Jb-h0X"; */
+"C5Y-Jb-h0X.text" = "CRL նախագծեր";
+
+/* Class = "UILabel"; text = "Code Republic is the Academy’s research and development lab, where Level Up Bootcamp and Sandbox graduates join a set of projects related to Picsart product domain, research, and creative fields, including image and video processing, natural language processing, AI and machine learning, distributed systems, and so on."; ObjectID = "c6O-ev-U7d"; */
+"c6O-ev-U7d.text" = "Քոդ Րիփաբլիքը ակադեմիայի հետազոտական և զարգացման լաբորատորիան է, որտեղ Level Up Bootcamp-ի և Sandbox-ի շրջանավարտները միանում են Փիքսարթ արտադրանքի տիրույթին, հետազոտություններին և ստեղծագործական ոլորտներին առնչվող մի շարք նախագծերի, ներառյալ պատկերների և տեսանյութերի մշակումը, բնական լեզվի մշակումը, Արհեստական բանականությունը և Մեքենայական ուսուցումը, բաշխված համակարգերը և այլն։";
+
+/* Class = "UILabel"; text = "Algorithm Visualizer"; ObjectID = "Cf2-4n-PIX"; */
+"Cf2-4n-PIX.text" = "Ալգորիթմի վիզուալիզատոր";
+
+/* Class = "UILabel"; text = "Programming Practice Track"; ObjectID = "cFK-tA-hmx"; */
+"cFK-tA-hmx.text" = "Ծրագրավորման պրակտիկայի Track";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ch7-aL-RIX"; */
+"Ch7-aL-RIX.normalTitle" = "";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "Cmb-xy-pty"; */
+"Cmb-xy-pty.text" = "00";
+
+/* Class = "UILabel"; text = "   Picsart Academy"; ObjectID = "CMh-S7-Gno"; */
+"CMh-S7-Gno.text" = "   Փիքսարթ Ակադեմիա";
+
+/* Class = "UILabel"; text = "Basic Algorithms and Data Structures"; ObjectID = "cNR-LP-quW"; */
+"cNR-LP-quW.text" = "Հիմնական ալգորիթմներ և տվյալների կառուցվածքներ";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Video Encoding"; ObjectID = "cOb-au-tqF"; */
+"cOb-au-tqF.text" = "Հիմնական ներածություն դեպի՝ Տեսանյութի կոդավորում";
+
+/* Class = "UILabel"; text = "Academy is open for admissions five times a year. Applications are open for Sandbox, Level Up Bootcamp, and Code Republic Lab simultaneously."; ObjectID = "Cq9-b1-KnY"; */
+"Cq9-b1-KnY.text" = "Ակադեմիան բաց է ընդունելության համար տարին հինգ անգամ: Դիմումները բաց են Sandbox-ի, Level Up Bootcamp-ի և Code Republic Lab-ի համար միաժամանակ:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cQm-qu-wMf"; */
+"cQm-qu-wMf.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Advanced Algorithms and Problem Solving"; ObjectID = "cr1-Zl-KDt"; */
+"cr1-Zl-KDt.text" = "Խորացված Ալգորիթմներ և խնդիրների լուծում";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "cuZ-kv-AeN"; */
+"cuZ-kv-AeN.text" = "00";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Image Formats and Image Processing"; ObjectID = "cVI-GV-97A"; */
+"cVI-GV-97A.text" = "Հիմնական ներածություն դեպի՝ պատկերի ձևաչափերի և պատկերների մշակում";
+
+/* Class = "UILabel"; text = "Programming Paradigms in Software Development"; ObjectID = "cxH-WU-vpS"; */
+"cxH-WU-vpS.text" = "Ծրագրավորման պարադիգմներ ծրագրային ապահովման մշակման մեջ";
+
+/* Class = "UILabel"; text = "Sandbox Tracks"; ObjectID = "cY1-6b-9JF"; */
+"cY1-6b-9JF.text" = "Sandboxի Track-երը";
+
+/* Class = "UILabel"; text = "  Appearance"; ObjectID = "cZB-d3-nuh"; */
+"cZB-d3-nuh.text" = "  Մուգ ռեժիմ";
+
+/* Class = "UILabel"; text = "Academy Highlights"; ObjectID = "czP-Vs-FHk"; */
+"czP-Vs-FHk.text" = "Ակադեմիայի կարևորագույն իրադարձությունները";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Video Encoding"; ObjectID = "CZT-6M-Zdv"; */
+"CZT-6M-Zdv.text" = "Հիմնական ներածություն դեպի՝ Տեսանյութի կոդավորում";
+
+/* Class = "UILabel"; text = "Career Tracks"; ObjectID = "cZu-As-bIl"; */
+"cZu-As-bIl.text" = "Կարիերայի Track-եր";
+
+/* Class = "UILabel"; text = "The admission process goes through one funnel managed by the Admission Commitee."; ObjectID = "D2z-5S-6Cg"; */
+"D2z-5S-6Cg.text" = "Ընդունելության գործընթացն անցնում է մեկ ուղղով, որը կառավարվում է Ընդունող հանձնաժողովի կողմից:";
+
+/* Class = "UILabel"; text = "Level Up Tracks"; ObjectID = "d5o-6Q-h2w"; */
+"d5o-6Q-h2w.text" = "Level Up-ի Track-երը";
+
+/* Class = "UILabel"; text = "Image Processing Library"; ObjectID = "d7y-cJ-Idq"; */
+"d7y-cJ-Idq.text" = "Պատկերների մշակման գրադարան";
+
+/* Class = "UILabel"; text = "Modules For Upgrading Skills"; ObjectID = "d7Y-KA-UCY"; */
+"d7Y-KA-UCY.text" = "Հմտությունների կատարելագործման մոդուլներ";
+
+/* Class = "UITabBarItem"; title = "LevelUp"; ObjectID = "d69-fN-wNL"; */
+"d69-fN-wNL.title" = "ԼեվլԱփ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "D82-o7-au7"; */
+"D82-o7-au7.normalTitle" = "";
+
+/* Class = "UILabel"; text = "System Programming Essentials"; ObjectID = "da2-bm-wgv"; */
+"da2-bm-wgv.text" = "Համակարգի ծրագրավորման սկզբունքները ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "daH-ot-zrm"; */
+"daH-ot-zrm.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Besides the tracks, the Sandbox also offers a lot of short-term modules, such as System Programming Essentials, Git, English, Build Automation, and many more. The Academy team designs an individual schedule for each student to join tracks and take modules based on their availability. Students can study at Sandbox as long as they need it and graduate after successfully completing all the tracks and modules."; ObjectID = "DBG-hd-jhS"; */
+"DBG-hd-jhS.text" = "Բացի Track-երից, Sandbox-ն առաջարկում է նաև շատ կարճաժամկետ մոդուլներ, ինչպիսիք են Համակարգի ծրագրավորման հիմունքները, Git, Ալնգլերեն, Կառուցման ավտոմատացում և շատ ավելին: Ակադեմիայի թիմը յուրաքանչյուր ուսանողի համար մշակում է անհատական ժամանակացույց՝ միանալու Track-երին և վերցնելու մոդուլները՝ ելնելով դրանց առկայությունից: Ուսանողները կարող են սովորել Sandbox-ում այնքան ժամանակ, քանի դեռ դրա կարիքն ունեն և ավարտեն բոլոր Track-երը և մոդուլները հաջողությամբ ավարտելուց հետո:";
+
+/* Class = "UILabel"; text = "Before jumping into the specializations, Level Up Bootcamp students go through an intensive program consisting of several in-depth engineering courses."; ObjectID = "dDZ-zw-mWK"; */
+"dDZ-zw-mWK.text" = "Նախքան մասնագիտացումներին անցնելը, Level Up Bootcamp-ի ուսանողներն անցնում են ինտենսիվ ծրագրի միջով, որը բաղկացած է մի քանի խորը ինժեներական դասընթացներից:";
+
+/* Class = "UILabel"; text = "The admission process goes through one funnel managed by the Admission Commitee."; ObjectID = "dE1-iC-S1a"; */
+"dE1-iC-S1a.text" = "Ընդունելության գործընթացն անցնում է մեկ ուղղով, որը կառավարվում է Ընդունող հանձնաժողովի կողմից:";
+
+/* Class = "UILabel"; text = "Working in a Linux environment "; ObjectID = "dFB-LR-jGP"; */
+"dFB-LR-jGP.text" = "Աշխատանք Linux միջավայրում";
+
+/* Class = "UILabel"; text = "CRL Modules"; ObjectID = "dGo-4O-qU6"; */
+"dGo-4O-qU6.text" = "CRL մոդուլները";
+
+/* Class = "UILabel"; text = "Learn More"; ObjectID = "dII-wl-X0l"; */
+"dII-wl-X0l.text" = "Իմանալ ավելին";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Web Development"; ObjectID = "dKJ-aG-tlJ"; */
+"dKJ-aG-tlJ.text" = "Հիմնական ներածություն դեպի՝ Վեբ Ծրագրավորում";
+
+/* Class = "UILabel"; text = "Favorite Tracks"; ObjectID = "Dme-7q-FRa"; */
+"Dme-7q-FRa.text" = "Սիրված Track-եր";
+
+/* Class = "UILabel"; text = "System Programming Essentials"; ObjectID = "DOH-IR-lsH"; */
+"DOH-IR-lsH.text" = "Համակարգի ծրագրավորման սկզբունքները ";
+
+/* Class = "UILabel"; text = "Level Up Modules"; ObjectID = "Dqg-WI-ba7"; */
+"Dqg-WI-ba7.text" = "Level Up-ի մոդուլները";
+
+/* Class = "UILabel"; text = "Project Management"; ObjectID = "DSO-hs-bHf"; */
+"DSO-hs-bHf.text" = "Նախագծի կառավարում";
+
+/* Class = "UILabel"; text = "How is it Organized?"; ObjectID = "dt8-JO-8gX"; */
+"dt8-JO-8gX.text" = "Ինչպե՞ս է այն կազմակերպվում:";
+
+/* Class = "UILabel"; text = "What Level Up Offers "; ObjectID = "dTG-dj-2Go"; */
+"dTG-dj-2Go.text" = "Ի՞նչ է առաջարկում Level Up-ը ";
+
+/* Class = "UILabel"; text = "~ 6 months"; ObjectID = "dth-Cc-Naz"; */
+"dth-Cc-Naz.text" = "~ 6 ամիս";
+
+/* Class = "UILabel"; text = "   Picsart Academy"; ObjectID = "DUE-Fa-JKp"; */
+"DUE-Fa-JKp.text" = "   Փիքսարթ Ակադեմիա";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DUH-KY-mua"; */
+"DUH-KY-mua.normalTitle" = "";
+
+/* Class = "UIViewController"; title = "LevelUp"; ObjectID = "Dut-Se-nKv"; */
+"Dut-Se-nKv.title" = "LevelUp";
+
+/* Class = "UILabel"; text = "Sense of UI/UX Design"; ObjectID = "dV9-Rj-7ZK"; */
+"dV9-Rj-7ZK.text" = "Հմտություններ UI/UX Դիզայնից";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DVC-0i-juw"; */
+"DVC-0i-juw.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Market Analysis Tool"; ObjectID = "dvK-r9-g6C"; */
+"dvK-r9-g6C.text" = "Շուկայի վերլուծության գործիք";
+
+/* Class = "UILabel"; text = "Build Automation (2 weeks)"; ObjectID = "dWu-qX-7q4"; */
+"dWu-qX-7q4.text" = "Կառուցման ավտոմատացում (2 շաբաթ)";
+
+/* Class = "UILabel"; text = "Image Processing Library"; ObjectID = "Dwv-es-WSe"; */
+"Dwv-es-WSe.text" = "Պատկերների մշակման գրադարան";
+
+/* Class = "UILabel"; text = "Picsart Academy Certified Specialist"; ObjectID = "dx7-9K-pfZ"; */
+"dx7-9K-pfZ.text" = "Փիքսարթ Ակադեմիայի հավաստագրված մասնագետ";
+
+/* Class = "UILabel"; text = "ETL Monster"; ObjectID = "dxb-AF-F19"; */
+"dxb-AF-F19.text" = "ETL Լեգենդ";
+
+/* Class = "UILabel"; text = "System Programming Essentials (4 weeks)"; ObjectID = "Dxr-tP-lna"; */
+"Dxr-tP-lna.text" = "Համակարգի ծրագրավորման սկզբունքները (4 շաբաթ)";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dyQ-Gp-bLq"; */
+"dyQ-Gp-bLq.normalTitle" = "";
+
+/* Class = "UILabel"; text = "The Next Wave Starts On July 1,2022"; ObjectID = "dzx-ii-Vcp"; */
+"dzx-ii-Vcp.text" = "Հաջորդ փուլը սկսվում է դեկտեմբերի 1-ին, 2022թ.";
+
+/* Class = "UILabel"; text = "  Appearance"; ObjectID = "EaD-zg-KW1"; */
+"EaD-zg-KW1.text" = "  Մուգ ռեժիմ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eez-Cp-07d"; */
+"eez-Cp-07d.normalTitle" = "";
+
+/* Class = "UITabBarItem"; title = "Tracks"; ObjectID = "efw-92-POj"; */
+"efw-92-POj.title" = "Թրեքներ";
+
+/* Class = "UILabel"; text = "Probability and Statistics Track"; ObjectID = "Eg5-ts-eaS"; */
+"Eg5-ts-eaS.text" = "Հավանականության և վիճակագրության Track";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Computer Networks"; ObjectID = "eHj-SC-e8s"; */
+"eHj-SC-e8s.text" = "Հիմնական ներածություն դեպի՝ Համակարգչային ցանցեր";
+
+/* Class = "UILabel"; text = "Programing Language Essentials with Java"; ObjectID = "ehq-ih-jKR"; */
+"ehq-ih-jKR.text" = "Ծրագրավորման լեզվի հիմունքները Java-ով";
+
+/* Class = "UILabel"; text = "Sandbox Modules"; ObjectID = "eHt-Tg-0nx"; */
+"eHt-Tg-0nx.text" = "Sandbox-ի մոդուլները";
+
+/* Class = "UILabel"; text = "Gain New Skills"; ObjectID = "eJH-cP-2Uh"; */
+"eJH-cP-2Uh.text" = "Ձեռք բերեք նոր հմտություններ";
+
+/* Class = "UILabel"; text = "Join the Sandbox"; ObjectID = "EK6-yv-AVJ"; */
+"EK6-yv-AVJ.text" = "Միանալ Sandbox-ին";
+
+/* Class = "UILabel"; text = "Use Your Knowledge in Practice"; ObjectID = "eKL-lj-xi4"; */
+"eKL-lj-xi4.text" = "Օգտագործեք ձեր գիտելիքները գործնականում";
+
+/* Class = "UILabel"; text = "Choose a track"; ObjectID = "ElW-EE-ZfZ"; */
+"ElW-EE-ZfZ.text" = "Ընտրե՜ք Track-ը";
+
+/* Class = "UILabel"; text = "   Telephone Number"; ObjectID = "emp-Kq-919"; */
+"emp-Kq-919.text" = "   Հեռախոսահամար";
+
+/* Class = "UILabel"; text = "  Language"; ObjectID = "Enm-Ip-0aD"; */
+"Enm-Ip-0aD.text" = "  Լեզու";
+
+/* Class = "UILabel"; text = "Essential Mathematics Track"; ObjectID = "EOM-65-gNp"; */
+"EOM-65-gNp.text" = "Հիմնական մաթեմատիկայի Track";
+
+/* Class = "UILabel"; text = "Time Management"; ObjectID = "Epg-kq-lRt"; */
+"Epg-kq-lRt.text" = "Ժամանակի կառավարում";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EV5-5Q-xIz"; */
+"EV5-5Q-xIz.normalTitle" = "";
+
+/* Class = "UISegmentedControl"; evE-p4-DIo.segmentTitles[0] = "English"; ObjectID = "evE-p4-DIo"; */
+"evE-p4-DIo.segmentTitles[0]" = "Անգլերեն";
+
+/* Class = "UISegmentedControl"; evE-p4-DIo.segmentTitles[1] = "Armenian"; ObjectID = "evE-p4-DIo"; */
+"evE-p4-DIo.segmentTitles[1]" = "Հայերեն";
+
+/* Class = "UILabel"; text = "Advanced English Track"; ObjectID = "evl-Th-X6h"; */
+"evl-Th-X6h.text" = "Խորացված Անգլերենի Track";
+
+/* Class = "UILabel"; text = "Computer Architecture Fundamentals"; ObjectID = "EwA-tE-OpT"; */
+"EwA-tE-OpT.text" = "Համակարգչային ճարտարապետության հիմունքներ";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Image Formats and Image Processing"; ObjectID = "eWU-oD-69z"; */
+"eWU-oD-69z.text" = "Հիմնական ներածություն դեպի՝ պատկերի ձևաչափերի և պատկերների մշակում";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EXi-E4-Mn9"; */
+"EXi-E4-Mn9.normalTitle" = "";
+
+/* Class = "UILabel"; text = "We assign mentors to students and provide accommodation including a lab, where students can work on real-world projects, a library, and a working space to read up on their chosen subjects, study hard and excel."; ObjectID = "eY6-6r-On1"; */
+"eY6-6r-On1.text" = "Մենք մենթորներ ենք նշանակում ուսանողներին և տրամադրում ենք կացարան, ներառյալ լաբորատորիա, որտեղ ուսանողները կարող են աշխատել իրական աշխարհի նախագծերի վրա, գրադարան և աշխատանքային տարածք՝ իրենց ընտրած առարկաները կարդալու, լավ սովորելու և գերազանցելու համար:";
+
+/* Class = "UIButton"; disabledTitle = "Enroll Now"; ObjectID = "eYs-Jo-lh1"; */
+"eYs-Jo-lh1.disabledTitle" = "Միանալ Հիմա";
+
+/* Class = "UIButton"; normalTitle = "Enroll Now"; ObjectID = "eYs-Jo-lh1"; */
+"eYs-Jo-lh1.normalTitle" = "Միանալ Հիմա";
+
+/* Class = "UILabel"; text = "QA Engineer"; ObjectID = "EZO-ow-9Pf"; */
+"EZO-ow-9Pf.text" = "QA ինժեներ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "F7t-rE-Yte"; */
+"F7t-rE-Yte.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fAn-Hy-tfH"; */
+"fAn-Hy-tfH.normalTitle" = "";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "faY-H6-RN2"; */
+"faY-H6-RN2.text" = "00";
+
+/* Class = "UIButton"; configuration.title = "Done"; ObjectID = "FCh-Di-Wiq"; */
+"FCh-Di-Wiq.configuration.title" = "Ավարտել";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FCh-Di-Wiq"; */
+"FCh-Di-Wiq.normalTitle" = "Ավարտել";
+
+/* Class = "UILabel"; text = "Software Development Life-Cycle (2 weeks)"; ObjectID = "fdI-6V-S0L"; */
+"fdI-6V-S0L.text" = "Ծրագրային ապահովման մշակման կյանքի ցիկլ (2 շաբաթ)";
+
+/* Class = "UILabel"; text = "People and Interpersonal skills"; ObjectID = "FeF-i4-gdO"; */
+"FeF-i4-gdO.text" = "Մարդկային և միջանձնային հմտություններ";
+
+/* Class = "UILabel"; text = "Build Automation"; ObjectID = "Fep-RD-VON"; */
+"Fep-RD-VON.text" = "Կառուցման ավտոմատացում";
+
+/* Class = "UILabel"; text = "People and Interpersonal skills"; ObjectID = "fFa-eV-Bwe"; */
+"fFa-eV-Bwe.text" = "Մարդկային և միջանձնային հմտություններ";
+
+/* Class = "UILabel"; text = "Deep Engineering Track"; ObjectID = "FGn-W9-ue1"; */
+"FGn-W9-ue1.text" = "Խորը ծրագրավորման Track";
+
+/* Class = "UILabel"; text = "Practice-Oriented Tracks/Specializations"; ObjectID = "Flk-6n-3e2"; */
+"Flk-6n-3e2.text" = "Գործնական կողմնորոշված Track-եր/մասնագիտացումներ";
+
+/* Class = "UILabel"; text = "Computer Architecture Fundamentals"; ObjectID = "ftD-57-C5T"; */
+"ftD-57-C5T.text" = "Համակարգչային ճարտարապետության հիմունքներ";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Computer Networks"; ObjectID = "fU0-Ob-0Kb"; */
+"fU0-Ob-0Kb.text" = "Հիմնական ներածություն դեպի՝ Համակարգչային ցանցեր";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fUB-CD-dAL"; */
+"fUB-CD-dAL.normalTitle" = "";
+
+/* Class = "UILabel"; text = "The Next Wave Starts On July 1,2022"; ObjectID = "fuo-vL-fi7"; */
+"fuo-vL-fi7.text" = "Հաջորդ փուլը սկսվում է դեկտեմբերի 1-ին, 2022թ.";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "FVT-xH-sRP"; */
+"FVT-xH-sRP.text" = "00";
+
+/* Class = "UILabel"; text = "Engineering Practice Track"; ObjectID = "FwD-pl-vfd"; */
+"FwD-pl-vfd.text" = "Ինժեներական պրակտիկայի Track";
+
+/* Class = "UILabel"; text = "Engineering Practice Track"; ObjectID = "g9I-1j-MP3"; */
+"g9I-1j-MP3.text" = "Ինժեներական պրակտիկայի Track";
+
+/* Class = "UILabel"; text = "Sandbox students take one or several tracks based on their availability. Tracks represent a pre-designed sequence of courses. For example, the “Computer Programming” track consists of the following courses:"; ObjectID = "G91-tW-EHM"; */
+"G91-tW-EHM.text" = "Sandbox-ի ուսանողները վերցնում են մեկ կամ մի քանի Track-եր՝ ելնելով դրանց առկայությունից: Track-երը ներկայացնում են դասընթացների նախապես մշակված հաջորդականություն: Օրինակ, «Համակարգչային ծրագրավորում» ուղին բաղկացած է հետևյալ դասընթացներից.";
+
+/* Class = "UILabel"; text = "Time Management"; ObjectID = "gbD-qv-IWe"; */
+"gbD-qv-IWe.text" = "Ժամանակի կառավարում";
+
+/* Class = "UILabel"; text = "File System Emulator"; ObjectID = "gbn-zd-Hnu"; */
+"gbn-zd-Hnu.text" = "Ֆայլային համակարգի էմուլյատոր";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Database Systems and SQL"; ObjectID = "gcy-mW-oNS"; */
+"gcy-mW-oNS.text" = "Հիմնական ներածություն դեպի՝ Տվյալների բազայի համակարգեր և SQL";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Gd3-cz-7Yb"; */
+"Gd3-cz-7Yb.normalTitle" = "";
+
+/* Class = "UILabel"; text = "   Picsart Academy"; ObjectID = "gEc-qD-Kbf"; */
+"gEc-qD-Kbf.text" = "   Փիքսարթ Ակադեմիա";
+
+/* Class = "UILabel"; text = "Students pass a set of tests, exams, and interviews after completing each course and module. They unlock badges for each course and module."; ObjectID = "ggM-5Z-uw3"; */
+"ggM-5Z-uw3.text" = "Յուրաքանչյուր դասընթաց և մոդուլ ավարտելուց հետո ուսանողները հանձնում են մի շարք թեստեր, քննություններ և հարցազրույցներ: Նրանք բացում են badge-երը յուրաքանչյուր դասընթացի և մոդուլի համար:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GHf-Sh-8NE"; */
+"GHf-Sh-8NE.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Computer Architecture Fundamentals [Sandbox]"; ObjectID = "gjn-fn-geq"; */
+"gjn-fn-geq.text" = "Համակարգչային ճարտարապետության հիմունքներ [Sandbox]";
+
+/* Class = "UILabel"; text = "Working in a Linux environment "; ObjectID = "gJs-Ed-yYm"; */
+"gJs-Ed-yYm.text" = "Աշխատանք Linux միջավայրում";
+
+/* Class = "UILabel"; text = "Advanced Python"; ObjectID = "Glf-Xy-BlK"; */
+"Glf-Xy-BlK.text" = "Խորացված Python";
+
+/* Class = "UILabel"; text = " Unlocking all the badges automatically leads to getting a Picsart Academy Certified Intern skills and knowledge recognition certificate."; ObjectID = "Gnl-hH-hyG"; */
+"Gnl-hH-hyG.text" = " Բոլոր badge-երի ստանալը ավտոմատ կերպով հանգեցնում է Փիքսարթ Ակադեմիայի հավաստագրված պրակտիկանտի հմտությունների և գիտելիքների ճանաչման վկայական ստանալու:";
+
+/* Class = "UILabel"; text = "Choose the stage"; ObjectID = "gP1-Hu-6IW"; */
+"gP1-Hu-6IW.text" = "Ընտրե՜ք փուլը";
+
+/* Class = "UILabel"; text = "CRL Projects"; ObjectID = "gpn-dp-wj7"; */
+"gpn-dp-wj7.text" = "CRL նախագծեր";
+
+/* Class = "UILabel"; text = "All the tests, exams, and interviews will help us design an individualized learning plan for you."; ObjectID = "gqO-Bt-19u"; */
+"gqO-Bt-19u.text" = "Բոլոր թեստերը, քննությունները և հարցազրույցները կօգնեն մեզ մշակել անհատականացված ուսուցման ծրագիր Ձեզ համար:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GRa-vo-avx"; */
+"GRa-vo-avx.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Picsart Academy Staff"; ObjectID = "GRD-u1-Dxn"; */
+"GRD-u1-Dxn.text" = "Փիքսարթ Ակադեմիայի Աշխատակազմ";
+
+/* Class = "UILabel"; text = "Version Control Systems and Git "; ObjectID = "gRh-xL-3ll"; */
+"gRh-xL-3ll.text" = "Տարբերակների վերահսկման համակարգեր և Git ";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Web Development"; ObjectID = "gVi-8h-tEr"; */
+"gVi-8h-tEr.text" = "Հիմնական ներածություն դեպի՝ Վեբ Ծրագրավորում";
+
+/* Class = "UILabel"; text = "English (8+ weeks)"; ObjectID = "gWS-rI-ZIg"; */
+"gWS-rI-ZIg.text" = "Անգլերեն (8+ շաբաթ)";
+
+/* Class = "UILabel"; text = "Algorithm Visualizer"; ObjectID = "gx0-zo-NJT"; */
+"gx0-zo-NJT.text" = "Ալգորիթմի վիզուալիզատոր";
+
+/* Class = "UILabel"; text = "Time Management"; ObjectID = "GyA-VT-q4f"; */
+"GyA-VT-q4f.text" = "Ժամանակի կառավարում";
+
+/* Class = "UILabel"; text = "Engineering Practice Track"; ObjectID = "H0R-XA-6a3"; */
+"H0R-XA-6a3.text" = "Ինժեներական պրակտիկայի Track";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "h0X-ex-wwx"; */
+"h0X-ex-wwx.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Spoken English"; ObjectID = "h1x-FV-wP3"; */
+"h1x-FV-wP3.text" = "Խոսակցական Անգլերեն";
+
+/* Class = "UILabel"; text = "Who Can Join the Sandbox?"; ObjectID = "h2K-YV-brN"; */
+"h2K-YV-brN.text" = "Ո՞վ կարող է միանալ Sandbox-ին";
+
+/* Class = "UIButton"; normalTitle = "Learn More"; ObjectID = "h5x-lf-7X0"; */
+"h5x-lf-7X0.normalTitle" = "Իմանալ ավելին";
+
+/* Class = "UILabel"; text = "Market Analysis Tool"; ObjectID = "h76-K4-UiC"; */
+"h76-K4-UiC.text" = "Շուկայի վերլուծության գործիք";
+
+/* Class = "UILabel"; text = "Career tracks allow you to move towards a pre-designed path to become the best you can be. To become a solid engineer you have to grasp all the fundamentals first. Whether you have chosen Android App Development or Frontend Web Development, you can progress your career by spending days and nights diving into the CS fundamentals and software engineering best practices. "; ObjectID = "HAM-2N-Rer"; */
+"HAM-2N-Rer.text" = "Կարիերայի track-երը թույլ են տալիս շարժվել դեպի նախապես մշակված ճանապարհ՝ դառնալու լավագույնը, որ կարող եք լինել: Համառ ինժեներ դառնալու համար նախ պետք է ըմբռնել բոլոր հիմունքները: Անկախ նրանից, թե դուք ընտրել եք Android հավելվածների ստեղծում, թե Frontend վեբ ծրագրավորում, կարող եք առաջադիմել ձեր կարիերայի վրա՝ օրեր և գիշերներ անցկացնելով՝ ուսումնասիրելով Համակարգչային գիտության հիմունքները և ծրագրային ապահովման ճարտարագիտության լավագույն պրակտիկաները: ";
+
+/* Class = "UILabel"; text = "Probability and Statistics Track"; ObjectID = "HbA-Ms-glj"; */
+"HbA-Ms-glj.text" = "Հավանականության և վիճակագրության Track";
+
+/* Class = "UILabel"; text = "Each Pipeline graduate must pass certification tests and exams to successfully graduate the stages. Failing any of the exam will result in retaking the same track(s) and/or module(s) again.The certification is not a completion nor an achievement certificate, but a recognition of one’s skills, knowledge, and expertise in a set of theoretical and practical subjects."; ObjectID = "hBS-et-Awg"; */
+"hBS-et-Awg.text" = "Ակադեմիայի յուրաքանչյուր շրջանավարտ պետք է անցնի հավաստագրման թեստեր և քննություններ՝ փուլերը հաջողությամբ ավարտելու համար: Քննություններից որևէ մեկի ձախողումը կհանգեցնի նույն փուլ(եր)ի և/կամ մոդուլի(ների) վերստին հանձնմանը: Հավաստագրումը ավարտական կամ ձեռքբերումների վկայական չէ, այլ սեփական հմտությունների, գիտելիքների և փորձի ճանաչում մի շարք տեսական և գործնական առարկաների։";
+
+/* Class = "UILabel"; text = "Machine Learning"; ObjectID = "Hcl-se-zZA"; */
+"Hcl-se-zZA.text" = "Մեքենայական Ուսուցում";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "HDE-RP-UyU"; */
+"HDE-RP-UyU.text" = "00";
+
+/* Class = "UILabel"; text = "Working with Data"; ObjectID = "hdf-yq-MfW"; */
+"hdf-yq-MfW.text" = "Տվյալների հետ աշխատելը";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "hF1-dT-CV0"; */
+"hF1-dT-CV0.text" = "Ժամ";
+
+/* Class = "UILabel"; text = "Decentralized database management system"; ObjectID = "HJb-uk-NaB"; */
+"HJb-uk-NaB.text" = "Տվյալների բազայի կառավարման ապակենտրոնացված համակարգ";
+
+/* Class = "UILabel"; text = "Version Control Systems and Git "; ObjectID = "hQI-GQ-Cli"; */
+"hQI-GQ-Cli.text" = "Տարբերակների վերահսկման համակարգեր և Git ";
+
+/* Class = "UILabel"; text = "Computer Programming Track"; ObjectID = "hqn-cm-W93"; */
+"hqn-cm-W93.text" = "Համակարգչային ծրագրավորման Track  ";
+
+/* Class = "UILabel"; text = "  Language"; ObjectID = "HR2-d3-j2g"; */
+"HR2-d3-j2g.text" = "  Լեզու";
+
+/* Class = "UILabel"; text = "To become a full Lab member the applicants must pass through a quarantine, where they need to complete a small task. After successfully passing the quarantine, the applicants become engineering candidates who are assigned small to medium-sized projects to complete individually or with the team. A successful release of the project transforms the candidates into full Lab members. "; ObjectID = "hs2-mc-bwv"; */
+"hs2-mc-bwv.text" = "Lab-ի լիարժեք անդամ դառնալու համար դիմորդները պետք է անցնեն կարանտին, որտեղ նրանք պետք է կատարեն փոքրիկ առաջադրանք: Կարանտինը հաջողությամբ անցնելուց հետո դիմորդները դառնում են ինժեներական թեկնածուներ, որոնց հանձնարարվում են փոքր և միջին չափի նախագծեր՝ անհատապես կամ թիմով ավարտելու համար: Նախագծի հաջող թողարկումը թեկնածուներին վերածում է լաբորատորիայի լիարժեք անդամների:";
+
+/* Class = "UILabel"; text = "Sandbox Tracks"; ObjectID = "HuP-FM-caQ"; */
+"HuP-FM-caQ.text" = "Sandboxի Track-երը";
+
+/* Class = "UILabel"; text = "Project Management"; ObjectID = "Hvx-q6-Mla"; */
+"Hvx-q6-Mla.text" = "Նախագծի կառավարում";
+
+/* Class = "UILabel"; text = "Spoken English"; ObjectID = "i0I-Lv-Pyv"; */
+"i0I-Lv-Pyv.text" = "Խոսակցական Անգլերեն";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "I1K-OI-94F"; */
+"I1K-OI-94F.normalTitle" = "";
+
+/* Class = "UILabel"; text = "   Picsart Academy"; ObjectID = "I1T-eX-5yv"; */
+"I1T-eX-5yv.text" = "   Փիքսարթ Ակադեմիա";
+
+/* Class = "UILabel"; text = "Career Tracks at Picsart Academy allow to easily define a specific specialization to start your learning journey towards a better career."; ObjectID = "i3l-5M-e3I"; */
+"i3l-5M-e3I.text" = "Picsart Academy-ի կարիերայի Track-երը թույլ են տալիս հեշտությամբ սահմանել հատուկ մասնագիտացում՝ սկսելու ձեր ուսումնական ճանապարհորդությունը դեպի ավելի լավ կարիերա:";
+
+/* Class = "UILabel"; text = "Advanced JavaScript"; ObjectID = "I3T-Jp-52V"; */
+"I3T-Jp-52V.text" = "Խորացված JavaScript";
+
+/* Class = "UILabel"; text = "Programming Practice Track"; ObjectID = "i6Q-FR-ggL"; */
+"i6Q-FR-ggL.text" = "Ծրագրավորման պրակտիկայի Track";
+
+/* Class = "UILabel"; text = "Search Engine with Built in Translation"; ObjectID = "i7T-hc-OTl"; */
+"i7T-hc-OTl.text" = "Որոնիչ՝ ներկառուցված թարգմանությամբ";
+
+/* Class = "UILabel"; text = "CRL Modules"; ObjectID = "I94-gy-DQ8"; */
+"I94-gy-DQ8.text" = "CRL մոդուլները";
+
+/* Class = "UILabel"; text = "Software Testing Essentials"; ObjectID = "ia2-H0-B33"; */
+"ia2-H0-B33.text" = "Ծրագրային ապահովման փորձարկման հիմունքները ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iAE-AZ-ymK"; */
+"iAE-AZ-ymK.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Product Design"; ObjectID = "ICH-qj-b0r"; */
+"ICH-qj-b0r.text" = "Նախագծի դիզայն";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Computer Networks"; ObjectID = "ief-Bi-pwp"; */
+"ief-Bi-pwp.text" = "Հիմնական ներածություն դեպի՝ Համակարգչային ցանցեր";
+
+/* Class = "UILabel"; text = " Unlocking all the badges automatically leads to getting a Picsart Academy Certified Specialist skills and knowledge recognition certificate."; ObjectID = "IeX-Xb-KuS"; */
+"IeX-Xb-KuS.text" = " Բոլոր badge-երի ստանալը ավտոմատ կերպով հանգեցնում է Փիքսարթ Ակադեմիայի հավաստագրված մասնագետի հմտությունների և գիտելիքների ճանաչման վկայական ստանալու:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IFd-Eh-eAD"; */
+"IFd-Eh-eAD.normalTitle" = "";
+
+/* Class = "UILabel"; text = "~ 6 months"; ObjectID = "IFQ-5k-L75"; */
+"IFQ-5k-L75.text" = "~ 6 ամիս";
+
+/* Class = "UILabel"; text = "A personalized learning area for beginners in software engineering. It covers many subjects, including Computer Architecture, C++, Python, Java, Object-Oriented Analysis and Design, Algorithms and Data Structures, and many more. Sandbox graduates are strong interns or junior engineers ready to get hired at top companies or join the Level Up Bootcamp."; ObjectID = "iFw-1Z-U5O"; */
+"iFw-1Z-U5O.text" = "Անհատականացված ուսումնական տարածք ծրագրային ապահովման ճարտարագիտության սկսնակների համար: Այն ընդգրկում է բազմաթիվ առարկաներ, այդ թվում՝ համակարգչային ճարտարապետություն, C++, Python, Java, օբյեկտ կողմնորոշված ծրագրավորում, ալգորիթմներ և տվյալների կառուցվածքներ և շատ ավելին: Sandbox-ի շրջանավարտները ուժեղ պրակտիկանտներ կամ կրտսեր ինժեներներ են, որոնք պատրաստ են աշխատանքի ընդունվել լավագույն ընկերություններում կամ միանալ Level Up Bootcamp-ին:";
+
+/* Class = "UISegmentedControl"; IGk-p8-ok3.segmentTitles[0] = "English"; ObjectID = "IGk-p8-ok3"; */
+"IGk-p8-ok3.segmentTitles[0]" = "Անգլերեն";
+
+/* Class = "UISegmentedControl"; IGk-p8-ok3.segmentTitles[1] = "Armenian"; ObjectID = "IGk-p8-ok3"; */
+"IGk-p8-ok3.segmentTitles[1]" = "Հայերեն";
+
+/* Class = "UILabel"; text = "Tracks Flow"; ObjectID = "Igz-l4-4xa"; */
+"Igz-l4-4xa.text" = "Track-երի ընթացքը";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Image Formats and Image Processing"; ObjectID = "IIp-2g-O8H"; */
+"IIp-2g-O8H.text" = "Հիմնական ներածություն դեպի՝ պատկերի ձևաչափերի և պատկերների մշակում";
+
+/* Class = "UILabel"; text = "Duration:"; ObjectID = "ImD-6u-gRR"; */
+"ImD-6u-gRR.text" = "Տևողություն:";
+
+/* Class = "UILabel"; text = "Sandbox Tracks"; ObjectID = "IMf-tO-bY9"; */
+"IMf-tO-bY9.text" = "Sandboxի Track-երը";
+
+/* Class = "UILabel"; text = "The Academy Lab for hands-on project development experience for Level Up Bootcamp graduates and other relevant applicants."; ObjectID = "imO-cS-BXf"; */
+"imO-cS-BXf.text" = "Ակադեմիայի լաբորատորիա՝ Level Up Bootcamp-ի շրջանավարտների և այլ համապատասխան դիմորդների համար նախագծերի մշակման գործնական փորձի համար:";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "ioL-fG-N2d"; */
+"ioL-fG-N2d.text" = "Կարգավորումներ";
+
+/* Class = "UILabel"; text = "Multithreading and Asynchronous Programming"; ObjectID = "ioQ-BE-hi0"; */
+"ioQ-BE-hi0.text" = "Բազմահերթ և ասինխրոն ծրագրավորում";
+
+/* Class = "UILabel"; text = "Android App Development"; ObjectID = "iQl-9a-d4z"; */
+"iQl-9a-d4z.text" = "Android հավելվածների ծրագրավորում";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iRV-dN-aOG"; */
+"iRV-dN-aOG.normalTitle" = "";
+
+/* Class = "UILabel"; text = "  Appearance"; ObjectID = "it6-qc-szD"; */
+"it6-qc-szD.text" = "  Մուգ ռեժիմ";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "IuQ-kO-jIt"; */
+"IuQ-kO-jIt.text" = "Կարգավորումներ";
+
+/* Class = "UILabel"; text = "The admission process goes through one funnel managed by the Admission Commitee."; ObjectID = "ixs-X1-Csd"; */
+"ixs-X1-Csd.text" = "Ընդունելության գործընթացն անցնում է մեկ ուղղով, որը կառավարվում է Ընդունող հանձնաժողովի կողմից:";
+
+/* Class = "UILabel"; text = "Sandbox Tracks"; ObjectID = "iYA-UR-3xj"; */
+"iYA-UR-3xj.text" = "Sandbox-ի Track-երը";
+
+/* Class = "UILabel"; text = "The application process at Picsart Academy is organized through “waves”. Each hiring wave is pre-defined for particular months in a year."; ObjectID = "izr-XC-Wht"; */
+"izr-XC-Wht.text" = "Փիքսարթ Ակադեմիայում դիմելու գործընթացը կազմակերպվում է «ալիքների» միջոցով։ Ընդունման յուրաքանչյուր ալիք նախապես սահմանված է տարվա որոշակի ամիսների համար:";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Mobile App Development"; ObjectID = "IzY-1G-pDk"; */
+"IzY-1G-pDk.text" = "Հիմնական ներածություն դեպի՝ Մոբայլ Ծրագրավորում ";
+
+/* Class = "UILabel"; text = "Analytical and critical thinking"; ObjectID = "Jas-Ju-vf7"; */
+"Jas-Ju-vf7.text" = "Վերլուծական և քննադատական մտածողություն";
+
+/* Class = "UILabel"; text = "Effective Communication"; ObjectID = "jB6-Dv-oUr"; */
+"jB6-Dv-oUr.text" = "Արդյունավետ հաղորդակցություն";
+
+/* Class = "UILabel"; text = "File System Emulator"; ObjectID = "jDu-si-H9q"; */
+"jDu-si-H9q.text" = "Ֆայլային համակարգի էմուլյատոր";
+
+/* Class = "UILabel"; text = "Linear Algebra"; ObjectID = "jeF-ss-QIj"; */
+"jeF-ss-QIj.text" = "Գծային հանրահաշիվ ";
+
+/* Class = "UILabel"; text = "Learn more about tracks"; ObjectID = "jEu-Hy-vWd"; */
+"jEu-Hy-vWd.text" = "Իմանալ ավելին track-երի մասին";
+
+/* Class = "UILabel"; text = "Admission months are"; ObjectID = "jH7-yY-k73"; */
+"jH7-yY-k73.text" = "Ընդունելության ամիսներն են՝";
+
+/* Class = "UILabel"; text = "   Address"; ObjectID = "jij-qr-Jo3"; */
+"jij-qr-Jo3.text" = "   Հասցե";
+
+/* Class = "UILabel"; text = "Mentoring"; ObjectID = "jLJ-9B-NGN"; */
+"jLJ-9B-NGN.text" = "Մենթորություն";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JNb-jb-h4O"; */
+"JNb-jb-h4O.normalTitle" = "";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "jnu-6y-RjF"; */
+"jnu-6y-RjF.text" = "00";
+
+/* Class = "UILabel"; text = "Probability and Statistics Track"; ObjectID = "jOv-ea-b7w"; */
+"jOv-ea-b7w.text" = "Հավանականության և վիճակագրության Track";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JOX-Hd-AsA"; */
+"JOX-Hd-AsA.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Quality Engineering"; ObjectID = "jpn-PH-Yac"; */
+"jpn-PH-Yac.text" = "Որակի Ինժիներություն";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JvH-eS-l19"; */
+"JvH-eS-l19.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Decentralized database management system"; ObjectID = "jVQ-YR-yTG"; */
+"jVQ-YR-yTG.text" = "Տվյալների բազայի կառավարման ապակենտրոնացված համակարգ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jyV-cP-3pi"; */
+"jyV-cP-3pi.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "k1c-r2-B2H"; */
+"k1c-r2-B2H.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Geometry"; ObjectID = "KcU-5d-B0Z"; */
+"KcU-5d-B0Z.text" = "Երկրաչափություն";
+
+/* Class = "UILabel"; text = "Sense of UI/UX Design"; ObjectID = "kcW-bU-fff"; */
+"kcW-bU-fff.text" = "Հմտություններ UI/UX Դիզայնից";
+
+/* Class = "UILabel"; text = "Analytical and critical thinking"; ObjectID = "kDu-9z-sc0"; */
+"kDu-9z-sc0.text" = "Վերլուծական և քննադատական մտածողություն";
+
+/* Class = "UILabel"; text = "Admission waves"; ObjectID = "kF9-hq-lom"; */
+"kF9-hq-lom.text" = "Ընդունելության ալիքներ";
+
+/* Class = "UILabel"; text = "Effective Communication"; ObjectID = "kHu-AV-7DH"; */
+"kHu-AV-7DH.text" = "Արդյունավետ հաղորդակցություն";
+
+/* Class = "UILabel"; text = "Deep Engineering Track"; ObjectID = "KIf-rC-gNX"; */
+"KIf-rC-gNX.text" = "Խորը ծրագրավորման Track";
+
+/* Class = "UILabel"; text = "Decentralized database management system"; ObjectID = "KJF-Ht-cYt"; */
+"KJF-Ht-cYt.text" = "Տվյալների բազայի կառավարման ապակենտրոնացված համակարգ";
+
+/* Class = "UILabel"; text = "Level Up Bootcamp graduates get certified as specialists by successfully completing all the deep engineering courses and modules as well as the specialization track of their choice."; ObjectID = "kjl-OQ-MqU"; */
+"kjl-OQ-MqU.text" = "Level Up Bootcamp-ի շրջանավարտները հավաստագրվում են որպես մասնագետներ՝ հաջողությամբ ավարտելով խորը ճարտարագիտության բոլոր դասընթացներն ու մոդուլները, ինչպես նաև իրենց ընտրած մասնագիտացման ուղին:";
+
+/* Class = "UILabel"; text = "Frontend Web Development"; ObjectID = "kka-Br-i5b"; */
+"kka-Br-i5b.text" = "Frontend Վեբ Ծրագրավորում";
+
+/* Class = "UILabel"; text = "Level Up Modules"; ObjectID = "kLZ-SU-NWx"; */
+"kLZ-SU-NWx.text" = "Level Up-ի մոդուլները";
+
+/* Class = "UILabel"; text = "Build Automation"; ObjectID = "koB-0P-Wo3"; */
+"koB-0P-Wo3.text" = "Կառուցման ավտոմատացում";
+
+/* Class = "UILabel"; text = "Level Up Modules"; ObjectID = "KpG-tN-aCO"; */
+"KpG-tN-aCO.text" = "Level Up-ի մոդուլները";
+
+/* Class = "UILabel"; text = "Advanced Algorithms and Problem Solving"; ObjectID = "KpJ-Bj-Th9"; */
+"KpJ-Bj-Th9.text" = "Խորացված Ալգորիթմներ և խնդիրների լուծում";
+
+/* Class = "UILabel"; text = "Project Management"; ObjectID = "KpW-jI-NXc"; */
+"KpW-jI-NXc.text" = "Նախագծի կառավարում";
+
+/* Class = "UILabel"; text = "Software Testing Essentials"; ObjectID = "Kvf-qA-jrq"; */
+"Kvf-qA-jrq.text" = "Ծրագրային ապահովման փորձարկման հիմունքները ";
+
+/* Class = "UILabel"; text = "Analytical and critical thinking"; ObjectID = "kwl-Ob-Saa"; */
+"kwl-Ob-Saa.text" = "Վերլուծական և քննադատական մտածողություն";
+
+/* Class = "UILabel"; text = "English (Beginner, Pre-Intermediate)"; ObjectID = "KXb-ws-ii6"; */
+"KXb-ws-ii6.text" = "Անգլերեն (Սկսնակ, Միջին մակարդակ)";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Mobile App Development (4 weeks)"; ObjectID = "kyR-HR-xay"; */
+"kyR-HR-xay.text" = "Հիմնական ներածություն դեպի՝ Մոբայլ Ծրագրավորում (4 շաբաթ)";
+
+/* Class = "UILabel"; text = "LANGUAGE"; ObjectID = "Kzu-2J-FfE"; */
+"Kzu-2J-FfE.text" = "Լեզու";
+
+/* Class = "UILabel"; text = "Sense of UI/UX Design"; ObjectID = "LaL-VZ-tdn"; */
+"LaL-VZ-tdn.text" = "Հմտություններ UI/UX Դիզայնից";
+
+/* Class = "UILabel"; text = "  Appearance"; ObjectID = "LBX-9K-MAq"; */
+"LBX-9K-MAq.text" = "  Մուգ ռեժիմ";
+
+/* Class = "UILabel"; text = "Data Science"; ObjectID = "Lc0-Ix-B8f"; */
+"Lc0-Ix-B8f.text" = "Տվյալագետ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "le9-Vv-Y5e"; */
+"le9-Vv-Y5e.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Code Republic Lab"; ObjectID = "Leh-UT-C5j"; */
+"Leh-UT-C5j.text" = "Քոդ Րիփաբլիք Լաբ";
+
+/* Class = "UILabel"; text = "Mentoring"; ObjectID = "lFV-gP-p2P"; */
+"lFV-gP-p2P.text" = "Մենթորություն";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Mobile App Development"; ObjectID = "lGS-d0-FXN"; */
+"lGS-d0-FXN.text" = "Հիմնական ներածություն դեպի՝ Մոբայլ Ծրագրավորում ";
+
+/* Class = "UILabel"; text = "Multithreading and Asynchronous Programming"; ObjectID = "LHH-nZ-gdG"; */
+"LHH-nZ-gdG.text" = "Բազմահերթ և ասինխրոն ծրագրավորում";
+
+/* Class = "UILabel"; text = "Version Control Systems and Git "; ObjectID = "Lis-UY-FdP"; */
+"Lis-UY-FdP.text" = "Տարբերակների վերահսկման համակարգեր և Git ";
+
+/* Class = "UILabel"; text = "   Azatutyan Avenue 24/17, “E” Plaza"; ObjectID = "lK2-6x-Iqr"; */
+"lK2-6x-Iqr.text" = "   Ազատության պողոտա 24/17, “E” Պլազա";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "LmM-Vt-HZO"; */
+"LmM-Vt-HZO.text" = "00";
+
+/* Class = "UILabel"; text = "  Language"; ObjectID = "Lnk-vq-0QP"; */
+"Lnk-vq-0QP.text" = "  Լեզու";
+
+/* Class = "UILabel"; text = "Introduction"; ObjectID = "LQM-Xv-eS6"; */
+"LQM-Xv-eS6.text" = "Ներածություն";
+
+/* Class = "UILabel"; text = "Object-Oriented Analysis and Design"; ObjectID = "lRV-bQ-vec"; */
+"lRV-bQ-vec.text" = "Օբյեկտ Կողմնորոշված Ծրագրավորում";
+
+/* Class = "UILabel"; text = "The Application Process"; ObjectID = "LsG-rc-knj"; */
+"LsG-rc-knj.text" = "Դիմումի գործընթացը";
+
+/* Class = "UILabel"; text = "Android App Development"; ObjectID = "luN-iX-HWs"; */
+"luN-iX-HWs.text" = "Android հավելվածների ծրագրավորում";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lus-KA-xnH"; */
+"lus-KA-xnH.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Picsart Academy"; ObjectID = "LuV-85-Adn"; */
+"LuV-85-Adn.text" = "Փիքսարթ Ակադեմիա";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lX2-PE-Lke"; */
+"lX2-PE-Lke.normalTitle" = "";
+
+/* Class = "UILabel"; text = "   Telephone Number"; ObjectID = "LyC-B3-cNe"; */
+"LyC-B3-cNe.text" = "   Հեռախոսահամար";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "LyF-Yf-6ct"; */
+"LyF-Yf-6ct.text" = "Կարգավորումներ";
+
+/* Class = "UILabel"; text = "English (Beginner, Pre-Intermediate)"; ObjectID = "LYn-5i-ffn"; */
+"LYn-5i-ffn.text" = "Անգլերեն (Սկսնակ, Միջին մակարդակ)";
+
+/* Class = "UILabel"; text = "Computer Programming Track"; ObjectID = "Mau-HX-xsT"; */
+"Mau-HX-xsT.text" = "Համակարգչային ծրագրավորման Track  ";
+
+/* Class = "UILabel"; text = "Practice-Oriented Tracks/Specializations"; ObjectID = "mB2-ak-rX9"; */
+"mB2-ak-rX9.text" = "Գործնական կողմնորոշված Track-եր/մասնագիտացումներ";
+
+/* Class = "UILabel"; text = "Welcome To Sandbox!"; ObjectID = "mBq-5e-T2d"; */
+"mBq-5e-T2d.text" = "Բարի Գալուստ Sandbox!";
+
+/* Class = "UILabel"; text = "Product Design"; ObjectID = "Mbx-vH-Ifo"; */
+"Mbx-vH-Ifo.text" = "Նախագծի դիզայն";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MC7-5s-EKi"; */
+"MC7-5s-EKi.normalTitle" = "";
+
+/* Class = "UILabel"; text = "CRL Projects"; ObjectID = "mDI-Ej-mJC"; */
+"mDI-Ej-mJC.text" = "CRL նախագծեր";
+
+/* Class = "UILabel"; text = "Image Formats and Processing Basics (4 weeks)"; ObjectID = "MDN-bi-f3Q"; */
+"MDN-bi-f3Q.text" = "Պատկերի ձևաչափեր և մշակման հիմունքներ (4 շաբաթ)";
+
+/* Class = "UILabel"; text = "Advanced C++"; ObjectID = "Meh-7w-2NV"; */
+"Meh-7w-2NV.text" = "Խորացված C++";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mep-SN-dit"; */
+"mep-SN-dit.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Minutes"; ObjectID = "MjC-41-EPp"; */
+"MjC-41-EPp.text" = "Րոպե";
+
+/* Class = "UILabel"; text = "Mentoring"; ObjectID = "MJf-EC-rMQ"; */
+"MJf-EC-rMQ.text" = "Մենթորություն";
+
+/* Class = "UILabel"; text = "Algorithm Visualizer"; ObjectID = "mKA-ED-c74"; */
+"mKA-ED-c74.text" = "Ալգորիթմի վիզուալիզատոր";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MlV-u9-9kB"; */
+"MlV-u9-9kB.normalTitle" = "";
+
+/* Class = "UILabel"; text = "CRL Projects"; ObjectID = "MNY-4P-Nt8"; */
+"MNY-4P-Nt8.text" = "CRL նախագծեր";
+
+/* Class = "UILabel"; text = "Version Control Systems and Git"; ObjectID = "Mp6-kF-V1v"; */
+"Mp6-kF-V1v.text" = "Տարբերակների վերահսկման համակարգեր և Git";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Database Systems and SQL"; ObjectID = "mq5-qm-Ai9"; */
+"mq5-qm-Ai9.text" = "Հիմնական ներածություն դեպի՝ Տվյալների բազայի համակարգեր և SQL";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mt2-kF-S3h"; */
+"mt2-kF-S3h.normalTitle" = "";
+
+/* Class = "UILabel"; text = "   Address"; ObjectID = "Mt9-Iy-Rvg"; */
+"Mt9-Iy-Rvg.text" = "   Հասցե";
+
+/* Class = "UILabel"; text = "January, March, May, July, and September"; ObjectID = "MV2-40-WVQ"; */
+"MV2-40-WVQ.text" = "Հունվար, Մարտ, Մայիս, Հուլիս, և Սեպտեմբեր";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "mVg-sk-zJU"; */
+"mVg-sk-zJU.text" = "Ժամ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MxZ-Xc-fX7"; */
+"MxZ-Xc-fX7.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MYH-2f-knt"; */
+"MYH-2f-knt.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Introduction to Web Technologies (2 weeks)"; ObjectID = "mYP-Ir-Pto"; */
+"mYP-Ir-Pto.text" = "Ներածություն դեպի Վեբ Տեխնոլոգիաներ (2 շաբաթ)";
+
+/* Class = "UILabel"; text = "Analytical and critical thinking"; ObjectID = "MzN-Tw-8fQ"; */
+"MzN-Tw-8fQ.text" = "Վերլուծական և քննադատական մտածողություն";
+
+/* Class = "UILabel"; text = "Working in a Linux environment "; ObjectID = "n0D-ad-beF"; */
+"n0D-ad-beF.text" = "Աշխատանք Linux միջավայրում";
+
+/* Class = "UILabel"; text = "System Programming Essentials"; ObjectID = "n4t-Wr-ITP"; */
+"n4t-Wr-ITP.text" = "Համակարգի ծրագրավորման սկզբունքները ";
+
+/* Class = "UILabel"; text = "Code Republic Lab graduates get a Picsart Academy Certified Professional certification upon successful release of the project, sub-project, or a research paper."; ObjectID = "Nad-CD-dmK"; */
+"Nad-CD-dmK.text" = "Քոդ Րիփաբլիք Լաբի շրջանավարտները ստանում են Փիքսարթ Ակադեմիայի հավաստագրված պրոֆեսիոնալի վկայական՝ նախագծի, ենթանախագծի կամ հետազոտական աշխատանքի հաջող ավարտելուց հետո:";
+
+/* Class = "UILabel"; text = "Level Up Tracks"; ObjectID = "Nbi-HA-DCc"; */
+"Nbi-HA-DCc.text" = "Level Up-ի Track-երը";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "NE4-Z9-BWj"; */
+"NE4-Z9-BWj.text" = "00";
+
+/* Class = "UILabel"; text = "Deep Engineering Track"; ObjectID = "NH3-d5-6XE"; */
+"NH3-d5-6XE.text" = "Խորը ծրագրավորման Track";
+
+/* Class = "UILabel"; text = "Days"; ObjectID = "NIA-jL-TLD"; */
+"NIA-jL-TLD.text" = "Օր";
+
+/* Class = "UILabel"; text = "  Appearance"; ObjectID = "nIF-Ds-eD0"; */
+"nIF-Ds-eD0.text" = "  Մուգ ռեժիմ";
+
+/* Class = "UILabel"; text = "Calculus"; ObjectID = "nJh-TS-TdL"; */
+"nJh-TS-TdL.text" = "Հանրահաշիվ";
+
+/* Class = "UILabel"; text = "People and Interpersonal skills"; ObjectID = "Njl-s9-VbP"; */
+"Njl-s9-VbP.text" = "Մարդկային և միջանձնային հմտություններ";
+
+/* Class = "UILabel"; text = "   Telephone Number"; ObjectID = "nKn-uZ-yCQ"; */
+"nKn-uZ-yCQ.text" = "   Հեռախոսահամար";
+
+/* Class = "UILabel"; text = "Educating the besttalent since 2016."; ObjectID = "nNk-TT-yOv"; */
+"nNk-TT-yOv.text" = "Ուսուցանում ենք լավագույն տաղանդներին սկսած՝ 2016թ.-ից";
+
+/* Class = "UILabel"; text = "Sandbox graduates join Level Up Bootcamp as the second stage of the Pipeline."; ObjectID = "nOZ-m8-YoU"; */
+"nOZ-m8-YoU.text" = "Sandbox շրջանավարտները միանում են Level Up Bootcamp-ին որպես ուսուցման երկրորդ փուլ:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nsb-XA-mdi"; */
+"nsb-XA-mdi.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Advanced English Track"; ObjectID = "Nsc-cB-Sgh"; */
+"Nsc-cB-Sgh.text" = "Խորացված Անգլերենի Track";
+
+/* Class = "UILabel"; text = "Level Up Modules"; ObjectID = "ntI-aN-LTp"; */
+"ntI-aN-LTp.text" = "Level Up-ի մոդուլները";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Ntm-ut-6hA"; */
+"Ntm-ut-6hA.text" = "Անգլերեն";
+
+/* Class = "UILabel"; text = "Join tracks and take modules"; ObjectID = "nUC-vV-OPG"; */
+"nUC-vV-OPG.text" = "Միացեք Track-ների և վերցրեք մոդուլներ";
+
+/* Class = "UILabel"; text = "ETL Monster"; ObjectID = "nuy-DU-5tV"; */
+"nuy-DU-5tV.text" = "ETL Լեգենդ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Nwt-Lr-jXp"; */
+"Nwt-Lr-jXp.normalTitle" = "";
+
+/* Class = "UILabel"; text = "CRL Modules"; ObjectID = "nX3-z1-OLc"; */
+"nX3-z1-OLc.text" = "CRL մոդուլները";
+
+/* Class = "UILabel"; text = "Algorithm Visualizer"; ObjectID = "nYz-4N-Y2k"; */
+"nYz-4N-Y2k.text" = "Ալգորիթմի վիզուալիզատոր";
+
+/* Class = "UILabel"; text = "Absolute Beginners"; ObjectID = "nzb-3I-kG6"; */
+"nzb-3I-kG6.text" = "Բացարձակ սկսնակներ";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "o0d-b9-To3"; */
+"o0d-b9-To3.text" = "Ամիս";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Database Systems and SQL"; ObjectID = "O1u-rW-BAw"; */
+"O1u-rW-BAw.text" = "Հիմնական ներածություն դեպի՝ Տվյալների բազայի համակարգեր և SQL";
+
+/* Class = "UILabel"; text = "Build Automation"; ObjectID = "O9B-fe-OvB"; */
+"O9B-fe-OvB.text" = "Կառուցման ավտոմատացում";
+
+/* Class = "UILabel"; text = "Algebra, Pre-Calculus, and Geometry"; ObjectID = "o44-P7-6vA"; */
+"o44-P7-6vA.text" = "Մաթեմատիկա, Նախահանրահաշիվ, և Երկրաչափություն";
+
+/* Class = "UIButton"; configuration.title = "Done"; ObjectID = "OBA-ee-jXx"; */
+"OBA-ee-jXx.configuration.title" = "Ավարտել";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OBA-ee-jXx"; */
+"OBA-ee-jXx.normalTitle" = "Ավարտել";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "obu-n7-pdh"; */
+"obu-n7-pdh.text" = "Ամիս";
+
+/* Class = "UILabel"; text = "Voice Processing Library"; ObjectID = "ocF-6H-Hmf"; */
+"ocF-6H-Hmf.text" = "Ձայնի մշակման գրադարան";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OdC-3X-znC"; */
+"OdC-3X-znC.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Deep Engineering Track"; ObjectID = "OEY-6S-pim"; */
+"OEY-6S-pim.text" = "Խորը ծրագրավորման Track";
+
+/* Class = "UILabel"; text = "File System Emulator"; ObjectID = "Ofh-M1-uaq"; */
+"Ofh-M1-uaq.text" = "Ֆայլային համակարգի էմուլյատոր";
+
+/* Class = "UILabel"; text = "Basic Algorithms and Data Structures"; ObjectID = "Ohc-oz-ioB"; */
+"Ohc-oz-ioB.text" = "Հիմնական ալգորիթմներ և տվյալների կառուցվածքներ";
+
+/* Class = "UILabel"; text = "Educating the besttalent since 2016."; ObjectID = "oJ7-Ia-NUr"; */
+"oJ7-Ia-NUr.text" = "Ուսուցանում ենք լավագույն տաղանդներին սկսած՝ 2016թ.-ից";
+
+/* Class = "UIButton"; configuration.title = "Learn More "; ObjectID = "oLB-oT-K2S"; */
+"oLB-oT-K2S.configuration.title" = "Իմանալ ավելին ";
+
+/* Class = "UIButton"; normalTitle = "Learn More "; ObjectID = "oLB-oT-K2S"; */
+"oLB-oT-K2S.normalTitle" = "Իմանալ ավելին ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oMG-Ym-XZO"; */
+"oMG-Ym-XZO.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Programming Practice"; ObjectID = "oNc-e7-Hh0"; */
+"oNc-e7-Hh0.text" = "Ծրագրավորման պրակտիկա";
+
+/* Class = "UILabel"; text = "Sandbox Modules"; ObjectID = "Ons-RT-kla"; */
+"Ons-RT-kla.text" = "Sandbox-ի մոդուլները";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Computer Networks"; ObjectID = "Oob-w8-5hN"; */
+"Oob-w8-5hN.text" = "Հիմնական ներածություն դեպի՝ Համակարգչային ցանցեր";
+
+/* Class = "UILabel"; text = "Software Testing Essentials"; ObjectID = "op9-WY-CmC"; */
+"op9-WY-CmC.text" = "Ծրագրային ապահովման փորձարկման հիմունքները ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OpV-GC-9Hm"; */
+"OpV-GC-9Hm.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Build Automation"; ObjectID = "oQ8-wY-J4y"; */
+"oQ8-wY-J4y.text" = "Կառուցման ավտոմատացում";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "orG-wu-Jpe"; */
+"orG-wu-Jpe.normalTitle" = "";
+
+/* Class = "UILabel"; text = "People and Interpersonal skills"; ObjectID = "oTa-FR-AbZ"; */
+"oTa-FR-AbZ.text" = "Մարդկային և միջանձնային հմտություններ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Owt-As-Vjv"; */
+"Owt-As-Vjv.normalTitle" = "";
+
+/* Class = "UILabel"; text = "People and Interpersonal skills"; ObjectID = "OZf-CQ-GDG"; */
+"OZf-CQ-GDG.text" = "Մարդկային և միջանձնային հմտություններ";
+
+/* Class = "UILabel"; text = "Object-Oriented Analysis and Design"; ObjectID = "P5o-fm-p0t"; */
+"P5o-fm-p0t.text" = "Օբյեկտ Կողմնորոշված Ծրագրավորում";
+
+/* Class = "UILabel"; text = "iOS App Development"; ObjectID = "p8S-ha-SEW"; */
+"p8S-ha-SEW.text" = "iOS Ծրագրավորում";
+
+/* Class = "UILabel"; text = "Project Management"; ObjectID = "pBK-Rx-cbM"; */
+"pBK-Rx-cbM.text" = "Նախագծի կառավարում";
+
+/* Class = "UILabel"; text = "Image Processing Library"; ObjectID = "Pbr-V7-sG0"; */
+"Pbr-V7-sG0.text" = "Պատկերների մշակման գրադարան";
+
+/* Class = "UILabel"; text = "English (Beginner, Pre-Intermediate)"; ObjectID = "pcF-CW-tBU"; */
+"pcF-CW-tBU.text" = "Անգլերեն (Սկսնակ, Միջին մակարդակ)";
+
+/* Class = "UIButton"; normalTitle = ""; ObjectID = "pci-lA-uoU"; */
+"pci-lA-uoU.normalTitle" = "";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Computer Networks (2 weeks)"; ObjectID = "pCL-oC-cBJ"; */
+"pCL-oC-cBJ.text" = "Հիմնական ներածություն դեպի՝ Համակարգչային ցանցեր (2 շաբաթ)";
+
+/* Class = "UILabel"; text = "Level Up Tracks"; ObjectID = "PCP-QC-Vdi"; */
+"PCP-QC-Vdi.text" = "Level Up-ի Track-երը";
+
+/* Class = "UILabel"; text = "Duration:"; ObjectID = "peD-1r-s2e"; */
+"peD-1r-s2e.text" = "Տևողություն:";
+
+/* Class = "UILabel"; text = "Who Can Join Level Up Bootcamp?"; ObjectID = "Pej-WO-mJg"; */
+"Pej-WO-mJg.text" = "Ո՞վ կարող է միանալ Level Up Bootcamp-ին։";
+
+/* Class = "UILabel"; text = "Object-Oriented Analysis and Design"; ObjectID = "PeU-kl-a7G"; */
+"PeU-kl-a7G.text" = "Օբյեկտ Կողմնորոշված Ծրագրավորում";
+
+/* Class = "UILabel"; text = "Essential Mathematics Track"; ObjectID = "pG0-Jt-FiM"; */
+"pG0-Jt-FiM.text" = "Հիմնական մաթեմատիկայի Track";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pgn-ix-MNK"; */
+"Pgn-ix-MNK.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Advanced English Track"; ObjectID = "PIC-qq-odV"; */
+"PIC-qq-odV.text" = "Խորացված Անգլերենի Track";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pIG-Lj-bLI"; */
+"pIG-Lj-bLI.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pjc-Og-46P"; */
+"Pjc-Og-46P.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Voice Processing Library"; ObjectID = "PKP-u3-h33"; */
+"PKP-u3-h33.text" = "Ձայնի մշակման գրադարան";
+
+/* Class = "UILabel"; text = "Voice Processing Library"; ObjectID = "PkV-ir-RBS"; */
+"PkV-ir-RBS.text" = "Ձայնի մշակման գրադարան";
+
+/* Class = "UILabel"; text = "Level Up Tracks"; ObjectID = "pn4-SN-0NI"; */
+"pn4-SN-0NI.text" = "Level Up-ի Track-երը";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Video Encoding"; ObjectID = "Ppm-FN-66j"; */
+"Ppm-FN-66j.text" = "Հիմնական ներածություն դեպի՝ Տեսանյութի կոդավորում";
+
+/* Class = "UILabel"; text = "The admission process goes through one funnel managed by the Admission Commitee."; ObjectID = "pVH-qq-DiT"; */
+"pVH-qq-DiT.text" = "Ընդունելության գործընթացն անցնում է մեկ ուղղով, որը կառավարվում է Ընդունող հանձնաժողովի կողմից:";
+
+/* Class = "UILabel"; text = "Deep Engineering Track"; ObjectID = "PXf-eU-gZc"; */
+"PXf-eU-gZc.text" = "Խորը ծրագրավորման Track";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Database Systems and SQL (4 weeks)"; ObjectID = "q5E-CJ-7xE"; */
+"q5E-CJ-7xE.text" = "Հիմնական ներածություն դեպի՝ Տվյալների բազայի համակարգեր և SQL (4 շաբաթ)";
+
+/* Class = "UINavigationItem"; title = "Picsart Academy"; ObjectID = "Q51-lY-3NS"; */
+"Q51-lY-3NS.title" = "Փիքսարթ Ակադեմիա";
+
+/* Class = "UILabel"; text = "Picsart Academy"; ObjectID = "qB9-9n-ZOc"; */
+"qB9-9n-ZOc.text" = "Փիքսարթ Ակադեմիա";
+
+/* Class = "UILabel"; text = "Certified Specialist"; ObjectID = "qBu-dD-uQz"; */
+"qBu-dD-uQz.text" = "Հավաստագրված մասնագետ";
+
+/* Class = "UILabel"; text = "Join the bootcamp"; ObjectID = "qcf-fm-DDJ"; */
+"qcf-fm-DDJ.text" = "Միանալ bootcamp-ին";
+
+/* Class = "UILabel"; text = "Software Testing Essentials"; ObjectID = "qE0-Uw-j0q"; */
+"qE0-Uw-j0q.text" = "Ծրագրային ապահովման փորձարկման հիմունքները ";
+
+/* Class = "UIButton"; normalTitle = "Enroll Now"; ObjectID = "qEV-5i-3Pe"; */
+"qEV-5i-3Pe.normalTitle" = "Միանալ Հիմա";
+
+/* Class = "UILabel"; text = "Probability and Statistics Track"; ObjectID = "QGE-2J-o4V"; */
+"QGE-2J-o4V.text" = "Հավանականության և վիճակագրության Track";
+
+/* Class = "UILabel"; text = "A personalized learning area for beginners and applicants with fundamental engineering skills and knowladge gaps."; ObjectID = "QiM-3Q-7l1"; */
+"QiM-3Q-7l1.text" = "Անհատականացված ուսումնական տարածք սկսնակների և դիմորդների համար, ովքեր ունեն հիմնարար ինժեներական հմտություններ և գիտելիքների բացեր:";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Qj3-qF-ReQ"; */
+"Qj3-qF-ReQ.text" = "Անգլերեն";
+
+/* Class = "UILabel"; text = "Voice Processing Library"; ObjectID = "qk6-3d-kcZ"; */
+"qk6-3d-kcZ.text" = "Ձայնի մշակման գրադարան";
+
+/* Class = "UILabel"; text = "Level Up Bootcamp is for experienced engineers planning to upgrade their knowledge and skills in several CS disciplines, as well as particular specializations, such as Data Science, ML and Deep Learning, Backend Web Development, Frontend Web Development, Android App Development, iOS App Development, DevOps, Quality Engineering, and so on."; ObjectID = "qtk-ed-WhS"; */
+"qtk-ed-WhS.text" = "Level Up Bootcamp-ը փորձառու ինժեներների համար է, ովքեր պլանավորում են բարելավել իրենց գիտելիքներն ու հմտությունները մի քանի Համակարգչային գիտության ոլորտներում, ինչպես նաև հատուկ մասնագիտացումներում, ինչպիսիք են Տվյալագիտությունը , Մեքենայական ուսուցումը և Խորը ուսուցումը, Backend Վեբ ծրագրավորումը, Frontend Վեբ ծրագրավորումը, Android հավելվածների ստեղծումը, iOS հավելվածների ստեղծումը, DevOps ինժիներությունը, Որակի ինժիներությունը և այլն:";
+
+/* Class = "UILabel"; text = "Applicants must successfully pass certification tests, exams, and interviews before joining the Lab. Level Up Bootcamp graduates join the Lab automatically. "; ObjectID = "Qtv-Aa-Ni8"; */
+"Qtv-Aa-Ni8.text" = "Դիմորդները պետք է հաջողությամբ անցնեն հավաստագրման թեստեր, քննություններ և հարցազրույցներ՝ նախքան լաբորատորիային միանալը: Level Up Bootcamp-ի շրջանավարտները ինքնաբերաբար միանում են Լաբորատորիային:";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "qU0-4P-gfl"; */
+"qU0-4P-gfl.text" = "00";
+
+/* Class = "UILabel"; text = "Introduction to Mobile App Development"; ObjectID = "QWV-RQ-4Wz"; */
+"QWV-RQ-4Wz.text" = "Հիմնական ներածություն դեպի՝ Մոբայլ Ծրագրավորում";
+
+/* Class = "UILabel"; text = "Tech lead is responsible for delegating tasks and achieving daily, weekly, and monthly goals. Students joining the Lab gain practical experience in an engineering-oriented environment and solid experience in working with multinational teams."; ObjectID = "qxz-kb-DoB"; */
+"qxz-kb-DoB.text" = "Tech Lead-ը պատասխանատու է առաջադրանքների ստացման և ամենօրյա, շաբաթական և ամսական նպատակներին հասնելու համար: Լաբորատորիային միացող ուսանողները ձեռք են բերում գործնական փորձ ինժեներական կողմնորոշված միջավայրում և տարբեր թիմերի հետ աշխատելու ամուր փորձ:";
+
+/* Class = "UILabel"; text = "Short-term Modules To Straighten Your Skills"; ObjectID = "QyU-XU-cUU"; */
+"QyU-XU-cUU.text" = "Կարճաժամկետ մոդուլներ՝ ձեր հմտությունները շտկելու համար";
+
+/* Class = "UISegmentedControl"; r0k-R9-ihW.segmentTitles[0] = "English"; ObjectID = "r0k-R9-ihW"; */
+"r0k-R9-ihW.segmentTitles[0]" = "Անգլերեն";
+
+/* Class = "UISegmentedControl"; r0k-R9-ihW.segmentTitles[1] = "Armenian"; ObjectID = "r0k-R9-ihW"; */
+"r0k-R9-ihW.segmentTitles[1]" = "Հայերեն";
+
+/* Class = "UILabel"; text = "Working in a Linux environment "; ObjectID = "R2S-eB-oBt"; */
+"R2S-eB-oBt.text" = "Աշխատանք Linux միջավայրում";
+
+/* Class = "UILabel"; text = "   Azatutyan Avenue 24/17, “E” Plaza"; ObjectID = "R5O-mk-Z0j"; */
+"R5O-mk-Z0j.text" = "   Ազատության պողոտա 24/17, “E” Պլազա";
+
+/* Class = "UIButton"; normalTitle = "Enroll Now"; ObjectID = "rfJ-j6-gVL"; */
+"rfJ-j6-gVL.normalTitle" = "Միանալ Հիմա";
+
+/* Class = "UILabel"; text = "Practice-Oriented Tracks/Specializations"; ObjectID = "rgv-w5-cEY"; */
+"rgv-w5-cEY.text" = "Գործնական կողմնորոշված Track-եր/մասնագիտացումներ";
+
+/* Class = "UILabel"; text = "Software Architecture and System Design Essentials"; ObjectID = "RHG-ZT-Eds"; */
+"RHG-ZT-Eds.text" = "Ծրագրային ապահովման ճարտարապետության և համակարգի ձևավորման հիմունքները";
+
+/* Class = "UILabel"; text = "Admission waves"; ObjectID = "ri5-OS-qiG"; */
+"ri5-OS-qiG.text" = "Ընդունելության ալիքներ";
+
+/* Class = "UILabel"; text = "Version Control Systems and Git "; ObjectID = "RjP-mn-tad"; */
+"RjP-mn-tad.text" = "Տարբերակների վերահսկման համակարգեր և Git ";
+
+/* Class = "UILabel"; text = "Level Up Tracks"; ObjectID = "RK0-Pg-Xkm"; */
+"RK0-Pg-Xkm.text" = "Level Up-ի Track-երը";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Video Encoding"; ObjectID = "Rnm-qI-iFB"; */
+"Rnm-qI-iFB.text" = "Հիմնական ներածություն դեպի՝ Տեսանյութի կոդավորում";
+
+/* Class = "UILabel"; text = "Engineering Practice Track"; ObjectID = "roy-NF-Hhf"; */
+"roy-NF-Hhf.text" = "Ինժեներական պրակտիկայի Track";
+
+/* Class = "UILabel"; text = "Basic Algorithms and Data Structures"; ObjectID = "RPU-Fl-9A7"; */
+"RPU-Fl-9A7.text" = "Հիմնական ալգորիթմներ և տվյալների կառուցվածքներ";
+
+/* Class = "UILabel"; text = "Level Up Bootcamp"; ObjectID = "rqT-Bh-1GH"; */
+"rqT-Bh-1GH.text" = "Level Up Bootcamp";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Database Systems and SQL"; ObjectID = "rRc-PB-UdL"; */
+"rRc-PB-UdL.text" = "Հիմնական ներածություն դեպի՝ Տվյալների բազայի համակարգեր և SQL";
+
+/* Class = "UILabel"; text = "The Next Wave Starts On July 1,2022"; ObjectID = "RRW-ll-w2P"; */
+"RRW-ll-w2P.text" = "Հաջորդ փուլը սկսվում է դեկտեմբերի 1-ին, 2022թ.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rVq-LV-GPd"; */
+"rVq-LV-GPd.normalTitle" = "";
+
+/* Class = "UILabel"; text = "ETL Monster"; ObjectID = "RWa-aQ-xjy"; */
+"RWa-aQ-xjy.text" = "ETL Լեգենդ";
+
+/* Class = "UILabel"; text = "Get acquainted with our philosophy and culture"; ObjectID = "RWR-3C-Wzh"; */
+"RWR-3C-Wzh.text" = "Ծանոթացեք մեր փիլիսոփայությանը և մշակույթին";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "RWu-hF-IH0"; */
+"RWu-hF-IH0.text" = "Կարգավորումներ";
+
+/* Class = "UILabel"; text = "  Appearance"; ObjectID = "RZs-xU-Seu"; */
+"RZs-xU-Seu.text" = "  Մուգ ռեժիմ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "S6e-nQ-vbG"; */
+"S6e-nQ-vbG.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Build Automation"; ObjectID = "Say-HK-fCq"; */
+"Say-HK-fCq.text" = "Կառուցման ավտոմատացում";
+
+/* Class = "UILabel"; text = "Minutes"; ObjectID = "SAz-Jw-BDl"; */
+"SAz-Jw-BDl.text" = "Րոպե";
+
+/* Class = "UILabel"; text = "Sandbox graduates get certified as interns by successfully completing all the engineering courses and modules."; ObjectID = "sbt-OI-NIp"; */
+"sbt-OI-NIp.text" = "Sandbox-ի շրջանավարտները հավաստագրվում են որպես պրակտիկանտներ՝ հաջողությամբ ավարտելով բոլոր ինժեներական դասընթացներն ու մոդուլները:";
+
+/* Class = "UILabel"; text = "Programming Practice Track"; ObjectID = "Ses-uB-K3D"; */
+"Ses-uB-K3D.text" = "Ծրագրավորման պրակտիկայի Track";
+
+/* Class = "UITabBarItem"; title = "Code Republic Lab"; ObjectID = "sHF-Fp-J4f"; */
+"sHF-Fp-J4f.title" = "Քոդ Րիփաբլիք Լաբ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SjO-fC-H0c"; */
+"SjO-fC-H0c.normalTitle" = "";
+
+/* Class = "UILabel"; text = "~ 4 months"; ObjectID = "SjU-1W-2Av"; */
+"SjU-1W-2Av.text" = "~ 4 ամիս";
+
+/* Class = "UILabel"; text = "   Address"; ObjectID = "SKo-oh-j87"; */
+"SKo-oh-j87.text" = "   Հասցե";
+
+/* Class = "UILabel"; text = "Working in a Linux Environment"; ObjectID = "slA-pd-oBA"; */
+"slA-pd-oBA.text" = "Աշխատանք Linux միջավայրում";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Mobile App Development"; ObjectID = "SM9-zu-M71"; */
+"SM9-zu-M71.text" = "Հիմնական ներածություն դեպի՝ Մոբայլ Ծրագրավորում ";
+
+/* Class = "UILabel"; text = "   Address"; ObjectID = "SoH-LQ-arj"; */
+"SoH-LQ-arj.text" = "   Հասցե";
+
+/* Class = "UIViewController"; title = "Staff"; ObjectID = "soR-Pu-Xlq"; */
+"soR-Pu-Xlq.title" = "Աշխատակազմ";
+
+/* Class = "UILabel"; text = "Minutes"; ObjectID = "SpQ-JO-Uty"; */
+"SpQ-JO-Uty.text" = "Րոպե";
+
+/* Class = "UILabel"; text = "Level Up Bootcamp and Code Republic Lab applicants who didn’t meet the entry requirements"; ObjectID = "sS7-Uh-qa5"; */
+"sS7-Uh-qa5.text" = "Level Up Bootcamp-ի և Code Republic Lab-ի դիմորդները, ովքեր չեն բավարարել մուտքի պահանջները";
+
+/* Class = "UILabel"; text = "Sandbox Tracks"; ObjectID = "stP-cP-45t"; */
+"stP-cP-45t.text" = "Sandboxի Track-երը";
+
+/* Class = "UILabel"; text = "Tracks, Courses, and Modules"; ObjectID = "svt-Xt-hmV"; */
+"svt-Xt-hmV.text" = "Track-եր, Դասընթացներ, և Մոդուլներ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sVV-OE-9j0"; */
+"sVV-OE-9j0.normalTitle" = "";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "swk-xs-L07"; */
+"swk-xs-L07.text" = "00";
+
+/* Class = "UILabel"; text = "Build Automation"; ObjectID = "SwW-hx-zhS"; */
+"SwW-hx-zhS.text" = "Կառուցման ավտոմատացում";
+
+/* Class = "UILabel"; text = "Spoken English"; ObjectID = "sx1-SN-Weq"; */
+"sx1-SN-Weq.text" = "Խոսակցական Անգլերեն";
+
+/* Class = "UILabel"; text = "ETL Monster"; ObjectID = "sXK-Et-OX4"; */
+"sXK-Et-OX4.text" = "ETL Լեգենդ";
+
+/* Class = "UIButton"; configuration.title = "Done"; ObjectID = "Sxp-T0-cxK"; */
+"Sxp-T0-cxK.configuration.title" = "Ավարտել";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Sxp-T0-cxK"; */
+"Sxp-T0-cxK.normalTitle" = "Ավարտել";
+
+/* Class = "UITabBarItem"; title = "Sandbox"; ObjectID = "sz9-sY-mQY"; */
+"sz9-sY-mQY.title" = "Սենդբոքս";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sZf-qP-2PX"; */
+"sZf-qP-2PX.normalTitle" = "";
+
+/* Class = "UILabel"; text = "ML Engineer"; ObjectID = "szk-U0-yBL"; */
+"szk-U0-yBL.text" = "Մեքենայական Ուսուցման ինժիներ";
+
+/* Class = "UILabel"; text = "Product Design"; ObjectID = "T3p-KD-Ldy"; */
+"T3p-KD-Ldy.text" = "Նախագծի դիզայն";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T6R-gK-SEz"; */
+"T6R-gK-SEz.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Data Scientist"; ObjectID = "TB8-Ky-yLO"; */
+"TB8-Ky-yLO.text" = "Տվյալագետ";
+
+/* Class = "UILabel"; text = "Mathematics is the basis of all the computer programming. Although several specializations do not require strong math skills, we offer basic math courses for the students."; ObjectID = "TbW-yH-ukG"; */
+"TbW-yH-ukG.text" = "Մաթեմատիկան ամբողջ համակարգչային ծրագրավորման հիմքն է։ Թեև մի քանի մասնագիտություններ չեն պահանջում մաթեմատիկական ուժեղ հմտություններ, մենք առաջարկում ենք հիմնական մաթեմատիկայի դասընթացներ ուսանողների համար:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tCA-gC-x4e"; */
+"tCA-gC-x4e.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Intensive level-up programs, including deep engineering topics and specializations in web, mobile, AI, or other areas for experienced engineers."; ObjectID = "TCD-pg-5cE"; */
+"TCD-pg-5cE.text" = "Ինտենսիվ մակարդակի բարձրացման ծրագրեր, ներառյալ խորը ինժեներական թեմաներ և մասնագիտացումներ վեբ, բջջային, Արհեստական բանականության կամ այլ ոլորտներում փորձառու ինժեներների համար:";
+
+/* Class = "UIButton"; normalTitle = "Enroll Now"; ObjectID = "Tda-1Z-PP7"; */
+"Tda-1Z-PP7.normalTitle" = "Միանալ Հիմա";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Mobile App Development"; ObjectID = "tdo-eB-R79"; */
+"tdo-eB-R79.text" = "Հիմնական ներածություն դեպի՝ Մոբայլ Ծրագրավորում ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "teZ-K8-5YR"; */
+"teZ-K8-5YR.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Spoken English"; ObjectID = "TGf-Ii-ZZc"; */
+"TGf-Ii-ZZc.text" = "Խոսակցական Անգլերեն";
+
+/* Class = "UILabel"; text = "Create Your Own Career"; ObjectID = "TGg-mL-8c2"; */
+"TGg-mL-8c2.text" = "Ստեղծեք ձեր սեփական կարիերան";
+
+/* Class = "UILabel"; text = "Time Management"; ObjectID = "TGu-Ec-fn4"; */
+"TGu-Ec-fn4.text" = "Ժամանակի կառավարում";
+
+/* Class = "UIButton"; normalTitle = "Learn More"; ObjectID = "TIV-2i-RR4"; */
+"TIV-2i-RR4.normalTitle" = "Իմանալ ավելին";
+
+/* Class = "UIButton"; normalTitle = "Enroll Now"; ObjectID = "TJ2-RQ-MK3"; */
+"TJ2-RQ-MK3.normalTitle" = "Միանալ Հիմա";
+
+/* Class = "UILabel"; text = "Search Engine with Built in Translation"; ObjectID = "Tj7-co-Vtn"; */
+"Tj7-co-Vtn.text" = "Որոնիչ՝ ներկառուցված թարգմանությամբ";
+
+/* Class = "UILabel"; text = "Software Testing Essentials"; ObjectID = "tjw-Ng-9qd"; */
+"tjw-Ng-9qd.text" = "Ծրագրային ապահովման փորձարկման հիմունքները ";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "TKI-oP-hsv"; */
+"TKI-oP-hsv.text" = "Անգլերեն";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tlc-kh-Jbe"; */
+"tlc-kh-Jbe.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Duration:"; ObjectID = "tMe-2P-yAa"; */
+"tMe-2P-yAa.text" = "Տևողություն:";
+
+/* Class = "UILabel"; text = "Search Engine with Built in Translation"; ObjectID = "tnY-c0-PnL"; */
+"tnY-c0-PnL.text" = "Որոնիչ՝ ներկառուցված թարգմանությամբ";
+
+/* Class = "UILabel"; text = "Days"; ObjectID = "Toz-GK-qq5"; */
+"Toz-GK-qq5.text" = "Օր";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TPq-UQ-0b4"; */
+"TPq-UQ-0b4.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Tracks can be taken simultaneously. Sandbox is available for students all day long, seven days a week."; ObjectID = "tPW-Zk-hCM"; */
+"tPW-Zk-hCM.text" = "Track-երը կարելի է միաժամանակ վերցնել: Sandbox-ը հասանելի է ուսանողների համար ամբողջ օրը, շաբաթը յոթ օր:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tTs-iG-ruO"; */
+"tTs-iG-ruO.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Level Up Tracks"; ObjectID = "TU5-Ty-Cs5"; */
+"TU5-Ty-Cs5.text" = "Level Up-ի Track-երը";
+
+/* Class = "UILabel"; text = "Time Management"; ObjectID = "TUx-Zv-3cB"; */
+"TUx-Zv-3cB.text" = "Ժամանակի կառավարում";
+
+/* Class = "UILabel"; text = "   Azatutyan Avenue 24/17, “E” Plaza"; ObjectID = "TvW-OB-1VX"; */
+"TvW-OB-1VX.text" = "   Ազատության պողոտա 24/17, “E” Պլազա";
+
+/* Class = "UILabel"; text = "Effective Communication"; ObjectID = "tXD-5o-0lj"; */
+"tXD-5o-0lj.text" = "Արդյունավետ հաղորդակցություն";
+
+/* Class = "UILabel"; text = "Courses in the track"; ObjectID = "Txj-dz-L9x"; */
+"Txj-dz-L9x.text" = "Track-ում ներառված դասընթացները";
+
+/* Class = "UILabel"; text = "Image and Video Processing"; ObjectID = "u4M-tO-cvo"; */
+"u4M-tO-cvo.text" = "Պատկերների և տեսանյութերի մշակում";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "u5O-v6-NUP"; */
+"u5O-v6-NUP.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Computer Programming Track"; ObjectID = "u6y-7n-kqz"; */
+"u6y-7n-kqz.text" = "Համակարգչային ծրագրավորման Track  ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "u7q-T5-8j3"; */
+"u7q-T5-8j3.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Essential Mathematics Track"; ObjectID = "u76-jE-Yw4"; */
+"u76-jE-Yw4.text" = "Հիմնական մաթեմատիկայի Track";
+
+/* Class = "UILabel"; text = "Experienced engineers lacking particular skills in CS fundamentals"; ObjectID = "uCv-IJ-Odp"; */
+"uCv-IJ-Odp.text" = "Փորձառու ինժեներներ, որոնք չունեն հատուկ հմտություններ Համակարգչային գիտության հիմունքներից";
+
+/* Class = "UILabel"; text = "Programming Practice Track"; ObjectID = "uCw-Qz-FWz"; */
+"uCw-Qz-FWz.text" = "Ծրագրավորման պրակտիկայի Track";
+
+/* Class = "UILabel"; text = "English (Beginner, Pre-Intermediate)"; ObjectID = "Udl-FC-QEg"; */
+"Udl-FC-QEg.text" = "Անգլերեն (Սկսնակ, Միջին մակարդակ)";
+
+/* Class = "UILabel"; text = "Almost all of the mentioned specialization programs include advanced courses in specific languages and technologies, such as:"; ObjectID = "uDZ-O8-Hwi"; */
+"uDZ-O8-Hwi.text" = "Նշված մասնագիտացման գրեթե բոլոր ծրագրերը ներառում են հատուկ լեզուների և տեխնոլոգիաների խորացված դասընթացներ, ինչպիսիք են.";
+
+/* Class = "UILabel"; text = "Spoken English"; ObjectID = "ueD-Je-UQI"; */
+"ueD-Je-UQI.text" = "Խոսակցական Անգլերեն";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uEI-vg-fIm"; */
+"uEI-vg-fIm.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Multithreading and Asynchronous Programming"; ObjectID = "UfK-YX-K1R"; */
+"UfK-YX-K1R.text" = "Բազմահերթ և ասինխրոն ծրագրավորում";
+
+/* Class = "UILabel"; text = "Join The Lab"; ObjectID = "UgN-dc-ioP"; */
+"UgN-dc-ioP.text" = "Միացի՜ր Լաբին";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uH4-AV-4f3"; */
+"uH4-AV-4f3.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Essential Mathematics Track"; ObjectID = "Uje-XU-QH3"; */
+"Uje-XU-QH3.text" = "Հիմնական մաթեմատիկայի Track";
+
+/* Class = "UITabBarItem"; title = "Picsart Academy"; ObjectID = "uJR-fb-MHK"; */
+"uJR-fb-MHK.title" = "Ակադեմիա";
+
+/* Class = "UILabel"; text = "DevOps Engineer"; ObjectID = "unl-9n-IqS"; */
+"unl-9n-IqS.text" = "DevOps Ինժիներ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ut3-CW-syr"; */
+"Ut3-CW-syr.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Probability and Statistics Track"; ObjectID = "uvL-sz-WOl"; */
+"uvL-sz-WOl.text" = "Հավանականության և վիճակագրության Track";
+
+/* Class = "UIViewController"; title = "Code Republic Lab"; ObjectID = "uX2-Oq-gpl"; */
+"uX2-Oq-gpl.title" = "Քոդ Րիփաբլիք Լաբ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uyN-gb-6Ea"; */
+"uyN-gb-6Ea.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Enroll Now"; ObjectID = "UZc-ld-tGW"; */
+"UZc-ld-tGW.normalTitle" = "Միանալ Հիմա";
+
+/* Class = "UILabel"; text = "CRL Modules"; ObjectID = "v3o-ee-mIc"; */
+"v3o-ee-mIc.text" = "CRL մոդուլները";
+
+/* Class = "UILabel"; text = "Code Republic, the Picsart Academy’s Lab"; ObjectID = "v6R-ie-TWz"; */
+"v6R-ie-TWz.text" = "Քոդ Րիփաբլիք, Փիքսարթ Ակադեմիայի Լաբ";
+
+/* Class = "UILabel"; text = "Sense of UI/UX Design"; ObjectID = "Vae-1z-Kjq"; */
+"Vae-1z-Kjq.text" = "Հմտություններ UI/UX Դիզայնից";
+
+/* Class = "UILabel"; text = "Frontend Web Development"; ObjectID = "vBN-5I-pBD"; */
+"vBN-5I-pBD.text" = "Frontend Վեբ Ծրագրավորում";
+
+/* Class = "UILabel"; text = "Algorithm Visualizer"; ObjectID = "vCN-kY-26b"; */
+"vCN-kY-26b.text" = "Ալգորիթմի վիզուալիզատոր";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vcs-Gu-bFs"; */
+"vcs-Gu-bFs.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vdF-no-7Lc"; */
+"vdF-no-7Lc.normalTitle" = "";
+
+/* Class = "UILabel"; text = "   Azatutyan Avenue 24/17, “E” Plaza"; ObjectID = "VG5-vP-HsC"; */
+"VG5-vP-HsC.text" = "   Ազատության պողոտա 24/17, “E” Պլազա";
+
+/* Class = "UILabel"; text = "Picsart Academy's Education"; ObjectID = "VgJ-XS-hCU"; */
+"VgJ-XS-hCU.text" = "Փիքսարթ Ակադեմիայի կրթությունը";
+
+/* Class = "UILabel"; text = "Software Testing Essentials"; ObjectID = "vhI-po-Eje"; */
+"vhI-po-Eje.text" = "Ծրագրային ապահովման փորձարկման հիմունքները ";
+
+/* Class = "UIButton"; configuration.title = "Learn More "; ObjectID = "VjG-LV-71k"; */
+"VjG-LV-71k.configuration.title" = "Իմանալ ավելին ";
+
+/* Class = "UIButton"; normalTitle = "Learn More "; ObjectID = "VjG-LV-71k"; */
+"VjG-LV-71k.normalTitle" = "Իմանալ ավելին ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Vm6-gW-OXS"; */
+"Vm6-gW-OXS.normalTitle" = "";
+
+/* Class = "UILabel"; text = "File System Emulator"; ObjectID = "vMy-gl-BFb"; */
+"vMy-gl-BFb.text" = "Ֆայլային համակարգի էմուլյատոր";
+
+/* Class = "UILabel"; text = "Working in a Linux environment "; ObjectID = "Vob-ye-meE"; */
+"Vob-ye-meE.text" = "Աշխատանք Linux միջավայրում";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VqF-4C-yoZ"; */
+"VqF-4C-yoZ.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Deep Engineering Track"; ObjectID = "vtR-vA-xgN"; */
+"vtR-vA-xgN.text" = "Խորը ծրագրավորման Track";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vUf-53-RgB"; */
+"vUf-53-RgB.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Level Up Courses, Programs, and Modules"; ObjectID = "vwY-l0-lTV"; */
+"vwY-l0-lTV.text" = "Level Up-ի դասընթացներ, ծրագրեր, և մոդուլներ";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Web Development"; ObjectID = "vX8-Vi-UDU"; */
+"vX8-Vi-UDU.text" = "Հիմնական ներածություն դեպի՝ Վեբ Ծրագրավորում";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vz1-ut-56A"; */
+"vz1-ut-56A.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "W6Y-NF-Yt9"; */
+"W6Y-NF-Yt9.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Advanced Kotlin"; ObjectID = "W9B-id-AEa"; */
+"W9B-id-AEa.text" = "Խորացված Kotlin";
+
+/* Class = "UILabel"; text = "Mentoring"; ObjectID = "Wcu-kn-4Lb"; */
+"Wcu-kn-4Lb.text" = "Մենթորություն";
+
+/* Class = "UILabel"; text = "Computer Programming Track"; ObjectID = "weL-x4-DnU"; */
+"weL-x4-DnU.text" = "Համակարգչային ծրագրավորման Track  ";
+
+/* Class = "UILabel"; text = "Sandbox Modules"; ObjectID = "wEv-TD-NyP"; */
+"wEv-TD-NyP.text" = "Sandbox-ի մոդուլները";
+
+/* Class = "UILabel"; text = "   Telephone Number"; ObjectID = "wFH-oJ-39K"; */
+"wFH-oJ-39K.text" = "   Հեռախոսահամար";
+
+/* Class = "UILabel"; text = "Data Engineer"; ObjectID = "wg1-GJ-EG4"; */
+"wg1-GJ-EG4.text" = "Տվյալների ինժեներ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wIg-ji-9md"; */
+"wIg-ji-9md.normalTitle" = "";
+
+/* Class = "UILabel"; text = "   Address"; ObjectID = "WjH-7U-Qq3"; */
+"WjH-7U-Qq3.text" = "   Հասցե";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "WkO-F9-3aV"; */
+"WkO-F9-3aV.text" = "00";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wmi-vB-ZQ6"; */
+"wmi-vB-ZQ6.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Market Analysis Tool"; ObjectID = "WOF-t0-Kec"; */
+"WOF-t0-Kec.text" = "Շուկայի վերլուծության գործիք";
+
+/* Class = "UILabel"; text = "CRL Modules"; ObjectID = "Woo-kp-Kv3"; */
+"Woo-kp-Kv3.text" = "CRL մոդուլները";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wq0-ic-Dam"; */
+"wq0-ic-Dam.normalTitle" = "";
+
+/* Class = "UILabel"; text = "   Azatutyan Avenue 24/17, “E” Plaza"; ObjectID = "WQN-3Y-sSa"; */
+"WQN-3Y-sSa.text" = "   Ազատության պողոտա 24/17, “E” Պլազա";
+
+/* Class = "UILabel"; text = "Sandbox"; ObjectID = "WUX-bB-y6G"; */
+"WUX-bB-y6G.text" = "Sandbox";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Video Encoding"; ObjectID = "wW8-hJ-xAa"; */
+"wW8-hJ-xAa.text" = "Հիմնական ներածություն դեպի՝ Տեսանյութի կոդավորում";
+
+/* Class = "UILabel"; text = "ETL Monster"; ObjectID = "WWL-Sv-ljg"; */
+"WWL-Sv-ljg.text" = "ETL Լեգենդ";
+
+/* Class = "UILabel"; text = "Effective Communication"; ObjectID = "wWz-jE-5pG"; */
+"wWz-jE-5pG.text" = "Արդյունավետ հաղորդակցություն";
+
+/* Class = "UIButton"; normalTitle = "Learn More"; ObjectID = "WY8-Q8-lA3"; */
+"WY8-Q8-lA3.normalTitle" = "Իմանալ ավելին";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Wyk-at-yuX"; */
+"Wyk-at-yuX.text" = "Անգլերեն";
+
+/* Class = "UIButton"; normalTitle = "Learn More"; ObjectID = "WZh-1H-VV3"; */
+"WZh-1H-VV3.normalTitle" = "Իմանալ ավելին";
+
+/* Class = "UILabel"; text = "Sandbox Modules"; ObjectID = "X5R-O8-MXl"; */
+"X5R-O8-MXl.text" = "Sandbox-ի մոդուլները";
+
+/* Class = "UILabel"; text = "Product Design"; ObjectID = "X16-2d-vWh"; */
+"X16-2d-vWh.text" = "Նախագծի դիզայն";
+
+/* Class = "UILabel"; text = "Decentralized database management system"; ObjectID = "xCj-VI-Mvb"; */
+"xCj-VI-Mvb.text" = "Տվյալների բազայի կառավարման ապակենտրոնացված համակարգ";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "XEy-jH-B4k"; */
+"XEy-jH-B4k.text" = "Անգլերեն";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xfr-OE-Aiv"; */
+"Xfr-OE-Aiv.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xgO-6H-TQS"; */
+"xgO-6H-TQS.normalTitle" = "";
+
+/* Class = "UILabel"; text = "  Language"; ObjectID = "XgT-YD-iTg"; */
+"XgT-YD-iTg.text" = "  Լեզու";
+
+/* Class = "UILabel"; text = "Level Up Modules"; ObjectID = "XJ6-nA-mXq"; */
+"XJ6-nA-mXq.text" = "Level Up-ի մոդուլները";
+
+/* Class = "UILabel"; text = "Here are all the knowledge you will have if you go to the end."; ObjectID = "Xk3-I8-55T"; */
+"Xk3-I8-55T.text" = "Ահա այն բոլոր գիտելիքները, որոնք Դուք կունենաք, եթե գնաք մինչև վերջ:";
+
+/* Class = "UILabel"; text = "Get To Know"; ObjectID = "Xkb-MX-FGp"; */
+"Xkb-MX-FGp.text" = "Իմացեք";
+
+/* Class = "UILabel"; text = "Advanced English Track"; ObjectID = "xkG-hG-VaH"; */
+"xkG-hG-VaH.text" = "Խորացված Անգլերենի Track";
+
+/* Class = "UILabel"; text = "   Picsart Academy"; ObjectID = "XLl-5w-tsb"; */
+"XLl-5w-tsb.text" = "   Փիքսարթ Ակադեմիա";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XNb-cg-o8E"; */
+"XNb-cg-o8E.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Picsart Academy Certified Professional"; ObjectID = "Xsk-Ec-V4w"; */
+"Xsk-Ec-V4w.text" = "Փիքսարթ Ակադեմիայի հավաստագրված պրոֆեսիոնալ";
+
+/* Class = "UILabel"; text = "Be Certified"; ObjectID = "XsW-3O-f6o"; */
+"XsW-3O-f6o.text" = "Եղեք հավաստագրված";
+
+/* Class = "UILabel"; text = "Programming Practice Track"; ObjectID = "Xuq-ye-IxF"; */
+"Xuq-ye-IxF.text" = "Ծրագրավորման պրակտիկայի Track";
+
+/* Class = "UILabel"; text = "  Language"; ObjectID = "xwC-9Z-bKP"; */
+"xwC-9Z-bKP.text" = "  Լեզու";
+
+/* Class = "UILabel"; text = "Computer Programming Track"; ObjectID = "xXK-kp-5KN"; */
+"xXK-kp-5KN.text" = "Համակարգչային ծրագրավորման Track  ";
+
+/* Class = "UILabel"; text = "Be Certified"; ObjectID = "xYo-7E-pgT"; */
+"xYo-7E-pgT.text" = "Եղե՜ք հավաստագրված";
+
+/* Class = "UILabel"; text = "Effective Communication"; ObjectID = "XZv-dd-OaQ"; */
+"XZv-dd-OaQ.text" = "Արդյունավետ հաղորդակցություն";
+
+/* Class = "UILabel"; text = "Mentoring"; ObjectID = "YD7-jq-6SK"; */
+"YD7-jq-6SK.text" = "Մենթորություն";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YEw-3j-e33"; */
+"YEw-3j-e33.normalTitle" = "";
+
+/* Class = "UIButton"; configuration.title = "Learn More "; ObjectID = "yg8-pj-9fI"; */
+"yg8-pj-9fI.configuration.title" = "Իմանալ ավելին ";
+
+/* Class = "UIButton"; normalTitle = "Learn More "; ObjectID = "yg8-pj-9fI"; */
+"yg8-pj-9fI.normalTitle" = "Իմանալ ավելին ";
+
+/* Class = "UILabel"; text = "Project Management"; ObjectID = "Yg9-nL-Qdd"; */
+"Yg9-nL-Qdd.text" = "Նախագծի կառավարում";
+
+/* Class = "UILabel"; text = "Mentoring"; ObjectID = "Ygf-46-URP"; */
+"Ygf-46-URP.text" = "Մենթորություն";
+
+/* Class = "UILabel"; text = "Join The Pipeline"; ObjectID = "Ygm-Dq-mQK"; */
+"Ygm-Dq-mQK.text" = "Միանալ լեգենդներին";
+
+/* Class = "UILabel"; text = "Programming Language Essentials (specialized in C++, Java, or Python)"; ObjectID = "yhZ-tq-k62"; */
+"yhZ-tq-k62.text" = "Ծրագրավորման լեզվի հիմունքները (մասնագիտացված է C++, Java կամ Python-ում)";
+
+/* Class = "UILabel"; text = "Practice-Oriented Tracks/Specializations"; ObjectID = "YiJ-09-jqe"; */
+"YiJ-09-jqe.text" = "Գործնական կողմնորոշված Track-եր/մասնագիտացումներ";
+
+/* Class = "UILabel"; text = "Be Certified"; ObjectID = "YJ3-hc-4Ah"; */
+"YJ3-hc-4Ah.text" = "Եղեք հավաստագրված";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ykb-tS-aAd"; */
+"ykb-tS-aAd.normalTitle" = "";
+
+/* Class = "UIButton"; disabledTitle = "Enroll Now"; ObjectID = "YnS-3C-Puw"; */
+"YnS-3C-Puw.disabledTitle" = "Միանալ Հիմա";
+
+/* Class = "UIButton"; normalTitle = "Enroll Now"; ObjectID = "YnS-3C-Puw"; */
+"YnS-3C-Puw.normalTitle" = "Միանալ Հիմա";
+
+/* Class = "UILabel"; text = "DevOps Engineering"; ObjectID = "yo2-Fr-O4h"; */
+"yo2-Fr-O4h.text" = "DevOps Ինժիներություն";
+
+/* Class = "UILabel"; text = "The education starts with joining particular tracks and taking as many modules as you can cover."; ObjectID = "yoL-g9-AUV"; */
+"yoL-g9-AUV.text" = "Կրթությունը սկսվում է որոշակի Track-ների միանալով և վերցնելով այնքան մոդուլներ, որքան կարող եք հասցնել միաժամանակ։";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Mobile App Development"; ObjectID = "yOU-xN-KV6"; */
+"yOU-xN-KV6.text" = "Հիմնական ներածություն դեպի՝ Մոբայլ Ծրագրավորում";
+
+/* Class = "UILabel"; text = "What's next?"; ObjectID = "YQl-PU-Nhs"; */
+"YQl-PU-Nhs.text" = "Ի՞նչ է հաջորդը:";
+
+/* Class = "UIButton"; configuration.title = "Done"; ObjectID = "YVW-zl-JXA"; */
+"YVW-zl-JXA.configuration.title" = "Ավարտել";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YVW-zl-JXA"; */
+"YVW-zl-JXA.normalTitle" = "Ավարտել";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ywN-gD-Dx0"; */
+"ywN-gD-Dx0.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Sense of UI/UX Design"; ObjectID = "Yxs-Cv-Ma2"; */
+"Yxs-Cv-Ma2.text" = "Հմտություններ UI/UX Դիզայնից";
+
+/* Class = "UILabel"; text = "Market Analysis Tool"; ObjectID = "yy2-fk-bHT"; */
+"yy2-fk-bHT.text" = "Շուկայի վերլուծության գործիք";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "z6K-P1-gfl"; */
+"z6K-P1-gfl.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "z8Y-Gx-xAG"; */
+"z8Y-Gx-xAG.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Discover Picsart Academy"; ObjectID = "Z50-5s-Ggq"; */
+"Z50-5s-Ggq.text" = "Բացահայտի՛ր Փիքսարթ Ակադեմիան";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZAN-fX-ate"; */
+"ZAN-fX-ate.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Voice Processing Library"; ObjectID = "Zbh-Yr-XTp"; */
+"Zbh-Yr-XTp.text" = "Ձայնի մշակման գրադարան";
+
+/* Class = "UILabel"; text = "Search Engine with Built in Translation"; ObjectID = "zF5-Pl-Jib"; */
+"zF5-Pl-Jib.text" = "Որոնիչ՝ ներկառուցված թարգմանությամբ";
+
+/* Class = "UILabel"; text = "A Basic Introduction to Image Formats and Image Processing"; ObjectID = "zhH-Og-Fio"; */
+"zhH-Og-Fio.text" = "Հիմնական ներածություն դեպի՝ պատկերի ձևաչափերի և պատկերների մշակում";
+
+/* Class = "UILabel"; text = "Effective Communication"; ObjectID = "ZL9-de-63u"; */
+"ZL9-de-63u.text" = "Արդյունավետ հաղորդակցություն";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "Zn9-hx-fEu"; */
+"Zn9-hx-fEu.text" = "00";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zo6-H7-akB"; */
+"zo6-H7-akB.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Certified Professional"; ObjectID = "zqa-lU-Ywa"; */
+"zqa-lU-Ywa.text" = "Հավաստագրված պրոֆեսիոնալ";
+
+/* Class = "UILabel"; text = "CRL Projects"; ObjectID = "ZtD-cD-ZU0"; */
+"ZtD-cD-ZU0.text" = "CRL նախագծեր";
+
+/* Class = "UILabel"; text = "Essential Mathematics Track"; ObjectID = "zTj-z3-DWQ"; */
+"zTj-z3-DWQ.text" = "Հիմնական մաթեմատիկայի Track";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZUc-hx-xYI"; */
+"ZUc-hx-xYI.normalTitle" = "";
+
+/* Class = "UILabel"; text = "ETL Monster"; ObjectID = "zUJ-Wx-9Sh"; */
+"zUJ-Wx-9Sh.text" = "ETL Լեգենդ";
+
+/* Class = "UILabel"; text = "Get a learning plan"; ObjectID = "zXn-YR-Cdd"; */
+"zXn-YR-Cdd.text" = "Ստանալ ուսուցման պլան";
+
+/* Class = "UILabel"; text = "Pre-Calculus"; ObjectID = "ZxQ-jX-75i"; */
+"ZxQ-jX-75i.text" = "Նախահանրահաշիվ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zYX-Oo-Hg1"; */
+"zYX-Oo-Hg1.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Zyz-g2-yIP"; */
+"Zyz-g2-yIP.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Be Recognized"; ObjectID = "zzE-sp-wkp"; */
+"zzE-sp-wkp.text" = "Եղե՜ք ճանաչված";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "zZW-W4-YdO"; */
+"zZW-W4-YdO.text" = "00";
+
